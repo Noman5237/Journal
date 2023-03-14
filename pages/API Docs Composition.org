@@ -1,0 +1,7 @@
+* Swagger API composition for micro services #Springboot #Swagger
+:PROPERTIES:
+:title: API Docs Composition
+:END:
+** https://medium.com/@nalsuwailem/api-documentation-in-spring-cloud-gateway-or-how-to-expose-your-be-end-point-documentation-via-abab84547611
+** https://github.com/geekymon2/carmarketplace-apigateway/tree/version-upgrade
+*

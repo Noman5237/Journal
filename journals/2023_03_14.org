@@ -1,0 +1,7 @@
+* Missed [[CSP]] AI quiz due to lack of Preparation
+* Continuing the work of [[LMS: Library Management System]]
+* TODO setup a redis database for [[Project Orion]]
+* TODO setup a mailu server for [[Project Orion]]
+* [[Exception Handling]] #Springboot
+* [[API Docs Composition]] #Springboot #Swagger
+*
