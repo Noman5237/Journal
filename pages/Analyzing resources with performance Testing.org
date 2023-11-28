@@ -1,5 +1,3 @@
-#+public: true
-
 * #Springboot #[[City Remittance]] #k6
 * Application Name:
 ** Meta Service
