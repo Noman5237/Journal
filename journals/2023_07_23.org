@@ -1,0 +1,27 @@
+* [[Java 17 Certification]] Preparation
+** DONE Accessing online contents
+* DONE Switching to [[Fedora]] POSTPONED to next next weekend
+:LOGBOOK:
+CLOCK: [2023-11-27 Mon 01:59:22]--[2023-11-27 Mon 01:59:23] =>  00:00:01
+:END:
+* [[City Remittance]]
+** DONE Completing the load test result generation part
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 15:36:17]--[2023-07-23 Sun 16:26:31] =>  00:50:14
+CLOCK: [2023-07-23 Sun 16:26:37]--[2023-07-23 Sun 17:14:18] =>  00:47:41
+:END:
+** DONE SOW for customer onboarding
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 14:33:05]--[2023-07-23 Sun 14:33:06] =>  00:00:01
+:END:
+* DONE Revisiting [[Haskell Programming from First Principles]] learning chapter 1
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 11:13:51]--[2023-07-24 Mon 11:13:52] =>  00:00:01
+:END:
+* [[Kubernetes]] networking fundamentals
+** DONE Kubernetes Basics
+* [[The Micro-service Template]]
+** DONE Update the load testing template
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 16:49:45]--[2023-07-23 Sun 17:06:53] =>  00:17:08
+:END:

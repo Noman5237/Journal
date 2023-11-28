@@ -1,0 +1,10 @@
+* How to set custom kubeconfig file context?#card
+** Use KUBECONFIG environment variable
+* How to get all the nodes using kubectl?#card
+** kubectl get nodes
+* How to get access into one of the shells of a pod? #card
+** kubectl exec -it pod-id -- /bin/bash
+* How to view the logs of a container in a pod?#card
+* How to inspect a pod?#card
+** kubectl describe pod-id
+*

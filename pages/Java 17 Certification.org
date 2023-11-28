@@ -1,0 +1,6 @@
+* Accessed the online study materials
+** https://app.efficientlearning.com/pv5/v8/5/app/oracle/864585ocpjase17devsg.html?#welcome
+** Flashcards are awesome, there are also tests
+** Need to be consistent
+* [[OCP Java 17 Study Guide Book]]
+*

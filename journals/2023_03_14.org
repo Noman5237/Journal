@@ -1,7 +1,10 @@
 * Missed [[CSP]] AI quiz due to lack of Preparation
 * Continuing the work of [[LMS: Library Management System]]
-* TODO setup a redis database for [[Project Orion]]
-* TODO setup a mailu server for [[Project Orion]]
+* DONE setup a redis database for [[Project Orion]]
+:LOGBOOK:
+CLOCK: [2023-08-01 Tue 13:11:52]--[2023-11-27 Mon 02:02:30] =>  2820:50:38
+:END:
+* DONE setup a mailu server for [[Project Orion]]
 * [[Exception Handling]] #Springboot
 * [[API Docs Composition]] #Springboot #Swagger
 *

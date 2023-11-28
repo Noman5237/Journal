@@ -1,0 +1,97 @@
+#+public: true
+
+* #Springboot #[[City Remittance]] #k6
+* Application Name:
+** Meta Service
+* Why Meta service:
+** Its a typical application with no additional complex logic
+** It has simple 3 layers of separation (Controllers, Services and Repositories)
+* Metadata
+** Replica: 3
+** Memory:  1.5 - 3GB
+** CPU: 0.5 - 1 Core
+```
+$ lscpu
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              16
+On-line CPU(s) list: 0-15
+Thread(s) per core:  1
+Core(s) per socket:  2
+Socket(s):           8
+NUMA node(s):        1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               85
+Model name:          Intel(R) Xeon(R) Gold 5218R CPU @ 2.10GHz
+Stepping:            7
+CPU MHz:             2099.999
+BogoMIPS:            4199.99
+Hypervisor vendor:   VMware
+Virtualization type: full
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            1024K
+L3 cache:            28160K
+NUMA node0 CPU(s):   0-15
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid avx512f avx512dq rdseed adx smap clflushopt clwb avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves arat pku ospke avx512_vnni md_clear flush_l1d arch_capabilities
+```
+* Test Scenarios:
+#+BEGIN_SRC json
+shared: {
+  executor: 'shared-iterations',
+  vus: 1000,
+  iterations: 50000,
+},
+time: {
+  executor: 'constant-vus',
+  vus: 3000,
+  duration: '60s',
+},
+constant: {
+  executor: 'per-vu-iterations',
+  vus: 1000,
+  iterations: 1,
+},
+const_arr: {
+  executor: 'constant-arrival-rate',
+  rate: 50,
+  timeUnit: '1s',
+  duration: '300s',
+  preAllocatedVUs: 1000,
+  maxVUs: 3000,
+}
+#+END_SRC
+* Memory Analysis
+** Over 12 hours
+[[../assets/image_1701098590813_0.png]]
+** Over 2 days timespan
+[[../assets/image_1701097396964_0.png]]
+** Over 7 days timespan
+[[../assets/image_1701098439913_0.png]]
+** Committed Memory
+[[../assets/image_1701101892612_0.png]]
+** Remarks:
+*** The applications have resting memory usage from range 900MB to 1100MB (cold state)
+*** The memory usage never peaks over 1400MB even after supplying adequate stress (warm state)
+*** Applications goes back to cold state after a significant period of inactivity
+* CPU Analysis (Process CPU Usage)
+** Over 12 hours
+[[../assets/image_1701098912421_0.png]]
+** Over 2 days
+[[../assets/image_1701098937975_0.png]]
+** Over 7 days
+[[../assets/image_1701099148763_0.png]]
+** Remarks:
+*** CPU Usage never peaks over 20%
+** Why CPU usage never fails to reach above 90%?
+*** The bottleneck might or might not be CPU, need to consider monitoring other OS metrics as well:
+**** Physical RAM
+**** Swap usage
+**** Network IO
+**** Disk IO
+*** I think the application has reached the saturation point since it doesn't perform well after adding stress.
+*Saturation point*: certain amount of concurrent users adjoining with maximum CPU utilization and peak throughput;
+Adding any more concurrent users will lead to degradation of response time and throughput, and will cause peak CPU utilization.
+*

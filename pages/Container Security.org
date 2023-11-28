@@ -1,0 +1,11 @@
+* Basics of Container Security
+{{video https://youtu.be/b_euX_M82uI}}
+* How to use an unprivileged user with docker? #card
+** create a user in dockerfile with useradd command and use that user with USER
+* How to prevent root user login access in container? #card
+** chsh -s /usr/sbin/nologin root
+* How to disable docker container from getting new privileges?#card
+** --security-opt="no-new-privileges=true"
+* We can drop all linux capabilities and then add only the necessary ones for the containers, this is hard all the way, easier said than done
+* We can use readonly filesystem for the container and only allow a particular directory to be rw mode. Along with non privileged user this is an redundant extra layer of security.
+* Sign the images and enable explicit content trust

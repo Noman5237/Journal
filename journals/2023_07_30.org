@@ -1,0 +1,38 @@
+* [[Java 17 Certification]] Preparation
+** TODO Revisit chapter 1
+* [[Arabic]]
+** TODO Revisit the first lesson
+* [[The Micro-service Template]]
+** TODO Plan the user management fix
+* [[Linux Kernel Development]]
+** TODO Read the Introduction
+* [[Haskell Programming from First Principles]]
+** TODO Finish Chapter 1
+* [[Machine Learning]]
+** TODO Revise Machine Learning
+* [[Logistics]]
+** TODO Revise logistics
+* Kubernetes the Hard Way
+** Bootstrapping [[etcd]]
+:LOGBOOK:
+CLOCK: [2023-08-01 Tue 13:11:26]
+:END:
+** TODO Bootstrapping kubernetes controller
+** TODO Bootstrapping kubernetes Worker
+* [[City Remittance]]
+** DONE Try to Configure tempo with trace id labels
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 13:06:05]
+CLOCK: [2023-07-24 Mon 15:49:35]--[2023-07-25 Tue 19:37:42] =>  27:48:07
+CLOCK: [2023-11-27 Mon 01:58:31]--[2023-11-27 Mon 01:58:49] =>  00:00:18
+:END:
+*** TODO Try to create a basic service graph
+** DONE Start load testing report analysis and find issues
+:LOGBOOK:
+CLOCK: [2023-11-27 Mon 01:58:40]--[2023-11-27 Mon 01:58:40] =>  00:00:00
+:END:
+*** DONE Login Home Screen
+:LOGBOOK:
+CLOCK: [2023-07-30 Sun 18:04:00]
+CLOCK: [2023-11-27 Mon 01:58:42]--[2023-11-27 Mon 01:58:44] =>  00:00:02
+:END:

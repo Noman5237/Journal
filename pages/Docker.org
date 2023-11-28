@@ -1,0 +1,6 @@
+* How docker works using linux namespaces
+{{video https://youtu.be/-YnMr1lj4Z8}}
+* Containers unplugged: understanding user namespaces
+{{video https://youtu.be/73nB9-HYbAI}}
+* [[Container Security]]
+*

@@ -1,0 +1,11 @@
+* People Factors
+** Work Schedule
+** Holidays
+** Interests
+** Amount of money likely to spend
+** Travel Time
+* Honey Pot Factors
+** No of people joining
+** Type of event
+** Uniqueness of the event
+*

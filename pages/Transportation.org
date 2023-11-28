@@ -1,0 +1,74 @@
+* Motor Freight
+** Advantages
+*** Speed
+*** Reliability
+*** Accessibility
+*** Low Damage
+** What are areas of costs in motor freight? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2023-07-01T04:44:09.976Z
+:card-last-reviewed: 2023-06-27T04:44:09.976Z
+:card-last-score: 3
+:END:
+*** fuel 39%
+*** driver salary 26%
+*** cab and trailer 17%
+*** maintenance 12%
+*** insurance and fees 5%
+** What are the most common type of trucks? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2023-06-30T06:43:50.074Z
+:card-last-reviewed: 2023-06-26T06:43:50.075Z
+:card-last-score: 3
+:END:
+*** City Trucks
+*** Container Truck (40ft, 53ft)
+*** Specialty Vehicles
+**** Refrigirators
+**** Livestock Containers
+**** Automobile Careers
+**** Tankers
+** What is terminal in logistics transportation? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-07-01T04:44:27.786Z
+:card-last-reviewed: 2023-06-27T04:44:27.787Z
+:card-last-score: 5
+:END:
+*** Terminal are taking product from one transport, sorting them and moving them out on a different transport. Although they look like storage units, they are not
+** What are different kinds of terminals? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-06-30T06:44:09.961Z
+:card-last-reviewed: 2023-06-26T06:44:09.961Z
+:card-last-score: 5
+:END:
+*** Pickup/Delivery Terminals: City Truck to Line Hall Vehicle and vice versa
+*** Cross Docks: Where different kinds of transport meet
+*** Relay Terminal: Where cabs and transport personnel are switched.
+** Categories of load capacities of motor freight #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2023-07-01T04:44:38.653Z
+:card-last-reviewed: 2023-06-27T04:44:38.653Z
+:card-last-score: 5
+:END:
+*** Truck Load (TL) when the whole truck is owned by a single business
+*** Less-than-Truck-Load (LTL) when multiple businesses share the truck and pay by amount of space or weight they use
+*** Parcel is much smaller and also costs more
+** Truck Business
+*** Easier to get in
+***
+**

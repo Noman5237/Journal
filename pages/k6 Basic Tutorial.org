@@ -1,0 +1,64 @@
+* Introduction (5m)
+** *What is Load Testing*
+Many things can go wrong when a system is under load. The system must run numerous operations simultaneously and respond to different requests from a variable number of users. To prepare for these performance risks, teams use load testing.
+** *Why*?
+*** *Performance Evaluation*: Load testing helps evaluate how well a system performs under expected and peak loads. By simulating real-world user traffic and interactions, it provides insights into the system's responsiveness, resource consumption, and overall performance.
+*** *Identifying Bottlenecks*: Load testing helps identify bottlenecks and weaknesses in the system. It allows you to pinpoint areas that may cause slowdowns, failures, or crashes when the system is under heavy load.
+*** *Scalability Assessment*: Load testing is crucial for determining a system's scalability. It helps assess whether the application or infrastructure can handle increased user demand and data processing requirements without significant performance degradation.
+*** *Optimization and Tuning*: The data gathered from load testing can be used to optimize and fine-tune the system. Developers and administrators can make informed decisions on how to improve the application's performance and resource utilization.
+*** *Reliability and Stability*: Load testing helps ensure that the system is reliable and stable under various load conditions. It can uncover issues related to memory leaks, race conditions, and other performance-related bugs that might only manifest under heavy usage.
+*** *Avoiding Downtime and Losses*: By identifying and addressing performance bottlenecks proactively, load testing reduces the risk of unexpected downtime or system failures. This, in turn, helps avoid potential financial losses and reputational damage.
+*** *Capacity Planning*: Load testing aids in capacity planning, allowing organizations to forecast future infrastructure needs accurately. It helps determine when and how much to scale up resources to accommodate growing user bases or increased data processing requirements.
+*** *Compliance and SLA Requirements*: In some industries, load testing is mandated to comply with regulatory requirements and service level agreements (SLAs). It ensures that systems meet the specified performance criteria.
+*** *User Experience Improvement*: Load testing helps enhance user experience by ensuring that the application remains responsive and performs optimally even during peak usage periods.
+*** *Preventing Performance Regression*: Load testing is useful when making updates, changes, or enhancements to an application. It helps verify that new features or modifications do not introduce performance regressions or unexpected issues
+* Demo
+** *How*?
+*** *Introduction to k6*
+Grafana k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible.
+*** Using the template
+**** Installation
+**** JS modules
+*** Very basic script (5m)
+*** Test life-cycle (3m)
+*** Reading test results (5m)
+**** Metrics
+***** Types
+****** counter
+****** gauge
+****** rate
+****** trend
+***** http_reqs
+:PROPERTIES:
+:id: 64b91551-f4a1-4a70-a390-b770442a8209
+:END:
+***** http_req_failed
+***** req_duration
+**** Viewing logs and graphs (5m)
+*** Options (Important Ones) (10m)
+**** batch
+**** discardResponseBodies
+**** duration
+**** hosts
+**** iterations
+**** rps
+**** vus
+**** useragent
+**** stages
+*** Scenarios (10m)
+**** Concepts
+***** Open and Closed Model
+**** Test Types
+***** smoke
+***** stress
+***** soak
+***** spike
+**** Executors
+***** shared-iterations
+***** per-vu-iterations
+***** ramping-vus
+***** constant-vus
+*** Simulating flows (10m)
+*** Using extensions
+* [[k6 basics]]
+*

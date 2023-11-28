@@ -1,0 +1,7 @@
+* TODO Downgrade fedora wayland to X11 #ONHOLD
+* TODO Restart the gitea server with updated allowed host policy
+* DONE Benchmark and Profile City Remittance Application
+:LOGBOOK:
+CLOCK: [2023-11-28 Tue 17:04:20]--[2023-11-28 Tue 17:04:20] =>  00:00:00
+:END:
+*

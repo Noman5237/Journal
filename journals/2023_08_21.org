@@ -1,0 +1,20 @@
+* DONE Modify the existing jenkins pipeline to build docker images and push them to dockerhub and deployging deployment using kubectl
+:LOGBOOK:
+CLOCK: [2023-11-27 Mon 01:46:59]--[2023-11-27 Mon 01:57:35] =>  00:10:36
+CLOCK: [2023-11-27 Mon 01:57:37]--[2023-11-27 Mon 01:57:37] =>  00:00:00
+:END:
+* Understand calico network routing
+:LOGBOOK:
+CLOCK: [2023-08-21 Mon 14:53:02]--[2023-08-21 Mon 14:53:03] =>  00:00:01
+:END:
+** TODO Understand [[IP Routing]] rules
+** TODO Understand calico interfaces and vxlan routing rules
+* TODO Understand wireguard in securing the cluster
+* DONE Understand all the parts of the kubernetes cluster
+:LOGBOOK:
+CLOCK: [2023-11-27 Mon 01:57:19]--[2023-11-27 Mon 01:57:20] =>  00:00:01
+:END:
+* DONE Deploy grafana loki in the cluster
+:LOGBOOK:
+CLOCK: [2023-11-27 Mon 01:57:04]--[2023-11-27 Mon 01:57:12] =>  00:00:08
+:END:

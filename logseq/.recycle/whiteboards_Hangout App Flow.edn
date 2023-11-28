@@ -1,0 +1,369 @@
+{:blocks (
+{:block/created-at 1688669996237
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[25 5 0.5] [25 6 0.5] [25 5 0.5] [24 5 0.5] [23 4 0.5] [22 4 0.5] [20 4 0.5] [17 4 0.5] [12 7 0.5] [8 10 0.5] [2 20 0.5] [0 27 0.5] [1 32 0.5] [5 36 0.5] [9 37 0.5] [15 36 0.5] [21 33 0.5] [26 29 0.5] [28 24 0.5] [28 19 0.5] [27 15 0.5] [24 10 0.5] [20 5 0.5] [17 2 0.5] [15 1 0.5] [14 0 0.5] [12 0 0.5] [12 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4ab17ad0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [124.5 107.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688669993754
+:isComplete true}}
+:block/updated-at 1688669996237} 
+{:block/created-at 1688669998115
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [2 2 0.5] [2 9 0.5] [2 18 0.5] [3 25 0.5] [4 33 0.5] [5 38 0.5] [5 40 0.5] [6 42 0.5] [6 41 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4b291bd0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [138.5 144.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688669994521
+:isComplete true}}
+:block/updated-at 1688669998115} 
+{:block/created-at 1688669998116
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[10 1 0.5] [11 0 0.5] [10 1 0.5] [8 4 0.5] [7 8 0.5] [4 15 0.5] [2 19 0.5] [1 21 0.5] [0 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4b642900-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [128.5 144.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688669994906
+:isComplete true}}
+:block/updated-at 1688669998116} 
+{:block/created-at 1688669998116
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [1 0 0.5] [2 0 0.5] [4 0 0.5] [7 1 0.5] [12 4 0.5] [16 7 0.5] [20 10 0.5] [22 11 0.5] [24 12 0.5] [25 13 0.5] [25 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4b937660-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [132.5 146.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688669995219
+:isComplete true}}
+:block/updated-at 1688669998116} 
+{:block/created-at 1688669998116
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[11 0 0.5] [11 1 0.5] [10 5 0.5] [9 7 0.5] [6 16 0.5] [4 22 0.5] [3 26 0.5] [1 29 0.5] [1 30 0.5] [1 31 0.5] [0 30 0.5] [0 29 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4bc6e270-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [135.5 170.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688669995556
+:isComplete true}}
+:block/updated-at 1688669998116} 
+{:block/created-at 1688669998116
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [1 0 0.5] [3 0 0.5] [6 2 0.5] [10 8 0.5] [13 11 0.5] [16 14 0.5] [17 16 0.5] [19 18 0.5] [20 19 0.5] [21 20 0.5] [21 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4bf23830-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [138.5 177.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688669995840
+:isComplete true}}
+:block/updated-at 1688669998116} 
+{:block/created-at 1688670010257
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 9 0.5] [1 9 0.5] [6 9 0.5] [12 8 0.5] [23 6 0.5] [37 5 0.5] [53 4 0.5] [66 3 0.5] [78 2 0.5] [84 1 0.5] [90 1 0.5] [93 0 0.5] [96 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4cb253e0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [173.5 156.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688669997100
+:isComplete true}}
+:block/updated-at 1688670010257} 
+{:block/created-at 1688670010256
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[18 5 0.5] [18 6 0.5] [16 8 0.5] [14 10 0.5] [12 12 0.5] [9 14 0.5] [7 15 0.5] [6 16 0.5] [5 17 0.5] [7 16 0.5] [10 14 0.5] [13 12 0.5] [16 11 0.5] [18 10 0.5] [19 9 0.5] [20 8 0.5] [20 7 0.5] [18 6 0.5] [14 4 0.5] [11 4 0.5] [7 3 0.5] [4 2 0.5] [2 1 0.5] [0 1 0.5] [0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4ceec0a0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [254.5 150.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688669997508
+:isComplete true}}
+:block/updated-at 1688670010256} 
+{:block/created-at 1688670012935
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[2 5 0.5] [2 4 0.5] [1 3 0.5] [1 2 0.5] [0 1 0.5] [0 0 0.5] [0 1 0.5] [1 1 0.5] [1 3 0.5] [2 6 0.5] [2 14 0.5] [4 24 0.5] [5 33 0.5] [7 48 0.5] [10 70 0.5] [11 85 0.5] [14 104 0.5] [16 119 0.5] [18 137 0.5] [21 157 0.5] [22 172 0.5] [25 196 0.5] [28 214 0.5] [31 226 0.5] [35 242 0.5] [38 254 0.5] [44 272 0.5] [47 285 0.5] [49 294 0.5] [51 305 0.5] [52 314 0.5] [53 319 0.5] [53 324 0.5] [53 325 0.5] [53 326 0.5] [51 322 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "53d913c0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [338.5 90.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670009121
+:isComplete true}}
+:block/updated-at 1688670012935} 
+{:block/created-at 1688670016697
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 11 0.5] [2 11 0.5] [5 10 0.5] [11 10 0.5] [17 10 0.5] [32 10 0.5] [44 10 0.5] [62 9 0.5] [83 7 0.5] [100 6 0.5] [126 5 0.5] [158 3 0.5] [176 2 0.5] [199 1 0.5] [215 1 0.5] [234 0 0.5] [248 0 0.5] [257 0 0.5] [265 0 0.5] [268 0 0.5] [271 1 0.5] [272 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "54e02380-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [341.5 72.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670010831
+:isComplete true}}
+:block/updated-at 1688670016697} 
+{:block/created-at 1688670016701
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[236 1 0.5] [236 0 0.5] [235 0 0.5] [236 1 0.5] [236 4 0.5] [237 7 0.5] [237 15 0.5] [239 28 0.5] [240 37 0.5] [241 51 0.5] [242 63 0.5] [243 80 0.5] [244 103 0.5] [245 117 0.5] [247 135 0.5] [249 152 0.5] [250 165 0.5] [253 180 0.5] [255 196 0.5] [256 212 0.5] [258 228 0.5] [259 240 0.5] [261 254 0.5] [262 266 0.5] [263 278 0.5] [265 289 0.5] [265 297 0.5] [266 308 0.5] [268 318 0.5] [269 323 0.5] [270 329 0.5] [271 331 0.5] [271 333 0.5] [272 334 0.5] [272 335 0.5] [272 336 0.5] [273 337 0.5] [272 337 0.5] [271 337 0.5] [268 337 0.5] [264 337 0.5] [260 337 0.5] [254 337 0.5] [245 337 0.5] [234 337 0.5] [219 338 0.5] [205 339 0.5] [187 340 0.5] [169 341 0.5] [155 342 0.5] [132 345 0.5] [118 346 0.5] [99 348 0.5] [82 350 0.5] [70 351 0.5] [53 353 0.5] [44 354 0.5] [33 355 0.5] [25 356 0.5] [20 356 0.5] [16 357 0.5] [13 357 0.5] [10 357 0.5] [9 357 0.5] [8 358 0.5] [7 358 0.5] [6 358 0.5] [5 357 0.5] [3 353 0.5] [3 350 0.5] [0 334 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5531c5f0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [380.5 71.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670011415
+:isComplete true}}
+:block/updated-at 1688670016701} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [1 2 0.5] [2 6 0.5] [3 9 0.5] [3 12 0.5] [4 13 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "57e3eda0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [495.5 103.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670015874
+:isComplete true}}
+:block/updated-at 1688670016698} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 5 0.5] [1 4 0.5] [1 3 0.5] [1 2 0.5] [1 1 0.5] [2 0 0.5] [2 1 0.5] [2 3 0.5] [2 7 0.5] [2 11 0.5] [2 14 0.5] [2 18 0.5] [2 20 0.5] [2 22 0.5] [2 23 0.5] [3 24 0.5] [5 24 0.5] [7 24 0.5] [9 24 0.5] [14 24 0.5] [16 24 0.5] [19 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "56ded9b0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [435.5 96.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670014179
+:isComplete true}}
+:block/updated-at 1688670016701} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[4 2 0.5] [3 2 0.5] [3 1 0.5] [3 0 0.5] [2 0 0.5] [0 2 0.5] [0 3 0.5] [1 6 0.5] [2 7 0.5] [3 8 0.5] [5 8 0.5] [7 7 0.5] [7 5 0.5] [7 3 0.5] [6 3 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "57316680-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [461.5 107.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670014712
+:isComplete true}}
+:block/updated-at 1688670016701} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 4 0.5] [2 9 0.5] [3 12 0.5] [4 15 0.5] [4 17 0.5] [5 15 0.5] [6 12 0.5] [7 9 0.5] [9 8 0.5] [12 8 0.5] [15 11 0.5] [20 19 0.5] [21 20 0.5] [22 21 0.5] [22 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "581584f0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [502.5 96.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670016208
+:isComplete true}}
+:block/updated-at 1688670016701} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2 0.5] [0 1 0.5] [0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "580160b0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [492.5 92.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670016063
+:isComplete true}}
+:block/updated-at 1688670016701} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[7 0 0.5] [8 0 0.5] [7 0 0.5] [6 1 0.5] [5 2 0.5] [5 3 0.5] [5 4 0.5] [5 5 0.5] [6 5 0.5] [6 4 0.5] [6 3 0.5] [5 2 0.5] [4 2 0.5] [3 2 0.5] [2 2 0.5] [1 3 0.5] [0 5 0.5] [1 6 0.5] [1 7 0.5] [2 7 0.5] [4 5 0.5] [6 4 0.5] [7 3 0.5] [8 3 0.5] [9 6 0.5] [9 10 0.5] [10 17 0.5] [9 21 0.5] [9 26 0.5] [8 28 0.5] [7 28 0.5] [7 26 0.5] [8 21 0.5] [9 16 0.5] [13 6 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5765bcf0-1c2f-11ee-b150-596175728e81"
+:noFill true
+:point [476.5 106.5]
+:parentId "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:nonce 1688670015075
+:isComplete true}}
+:block/updated-at 1688670016701})
+:pages (
+{:block/uuid #uuid "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64a70ed0-0875-43f5-9eb5-5dba6688994b"
+:name "hangout app flow"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("4ab17ad0-1c2f-11ee-b150-596175728e81" "4b291bd0-1c2f-11ee-b150-596175728e81" "4b642900-1c2f-11ee-b150-596175728e81" "4b937660-1c2f-11ee-b150-596175728e81" "4bc6e270-1c2f-11ee-b150-596175728e81" "4bf23830-1c2f-11ee-b150-596175728e81" "4cb253e0-1c2f-11ee-b150-596175728e81" "4ceec0a0-1c2f-11ee-b150-596175728e81" "53d913c0-1c2f-11ee-b150-596175728e81" "54e02380-1c2f-11ee-b150-596175728e81" "5531c5f0-1c2f-11ee-b150-596175728e81" "56ded9b0-1c2f-11ee-b150-596175728e81" "57316680-1c2f-11ee-b150-596175728e81" "5765bcf0-1c2f-11ee-b150-596175728e81" "57e3eda0-1c2f-11ee-b150-596175728e81" "580160b0-1c2f-11ee-b150-596175728e81" "581584f0-1c2f-11ee-b150-596175728e81")}}
+:block/updated-at 1688670016697
+:block/created-at 1688669904283
+:block/type "whiteboard"
+:block/name "hangout app flow"
+:block/original-name "Hangout App Flow"})}

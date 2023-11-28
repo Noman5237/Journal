@@ -1,0 +1,6 @@
+* What is a linux ethernet bridge #card
+** A Linux Ethernet bridge is a virtual Layer 2 networking device used to unite two or more network segments, working transparently to connect two networks together.
+* How does linux ethernet bridge network works? #card
+** The bridge operates by maintaining a forwarding table between sources and destinations by examining the destination of the data packets that travel through it and deciding whether or not to pass the packets to other network segments connected to the bridge.
+** The bridging code decides whether to bridge data or to drop it by looking at the MAC-address unique to each Ethernet device in the network.
+* What does the forwarding table looks like for bridge network?

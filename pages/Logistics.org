@@ -1,0 +1,23 @@
+* What is Logistics? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2023-06-30T05:47:52.261Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2023-06-26T05:47:52.262Z
+:END:
+** Logistics is defined as the movement and storage of goods, services, and related information.
+* Three major building blocks of Logistics #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2023-07-01T04:43:37.339Z
+:card-last-reviewed: 2023-06-27T04:43:37.341Z
+:card-last-score: 3
+:END:
+** [[Transportation]] #Logistics
+** [[Warehousing]] #Logistics
+** Inventory #Logistics
+*

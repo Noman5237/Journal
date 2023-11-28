@@ -1,0 +1,4686 @@
+{:blocks (
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 3 0.5] [1 3 0.5] [2 2 0.5] [3 2 0.5] [6 4 0.5] [8 9 0.5] [10 14 0.5] [11 21 0.5] [11 26 0.5] [11 29 0.5] [10 28 0.5] [9 22 0.5] [10 15 0.5] [11 11 0.5] [14 7 0.5] [16 7 0.5] [19 9 0.5] [22 13 0.5] [23 15 0.5] [23 17 0.5] [23 18 0.5] [22 16 0.5] [23 11 0.5] [25 6 0.5] [27 1 0.5] [30 0 0.5] [33 2 0.5] [36 7 0.5] [38 12 0.5] [40 16 0.5] [41 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8b5b8020-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [800.5 134.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452943171
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453283704
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 111
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[18 1 0.5] [19 0 0.5] [19 1 0.5] [19 5 0.5] [20 14 0.5] [21 21 0.5] [23 31 0.5] [24 35 0.5] [25 37 0.5] [25 38 0.5] [22 37 0.5] [19 35 0.5] [13 31 0.5] [9 30 0.5] [5 30 0.5] [1 34 0.5] [0 38 0.5] [2 44 0.5] [7 47 0.5] [11 48 0.5] [16 47 0.5] [19 45 0.5] [22 41 0.5] [24 38 0.5] [24 36 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "50333190-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [922.5 620.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453273411
+:isComplete true}}
+:block/updated-at 1690453283704} 
+{:block/created-at 1690453259636
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 103
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 5 0.5] [1 5 0.5] [8 4 0.5] [19 2 0.5] [28 1 0.5] [33 0 0.5] [35 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "111e5c00-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1043.5 527.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453167560
+:isComplete true}}
+:block/updated-at 1690453259636} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 36
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 3 0.5] [1 2 0.5] [2 0 0.5] [4 3 0.5] [6 11 0.5] [8 24 0.5] [9 36 0.5] [10 45 0.5] [10 50 0.5] [9 53 0.5] [7 53 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b2f60ce0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [689.5 279.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453009594
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 157
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 2 0.5] [1 0 0.5] [2 0 0.5] [6 2 0.5] [9 5 0.5] [11 11 0.5] [11 15 0.5] [10 17 0.5] [9 19 0.5] [8 19 0.5] [9 15 0.5] [12 9 0.5] [14 5 0.5] [16 2 0.5] [17 0 0.5] [16 3 0.5] [16 6 0.5] [17 11 0.5] [20 13 0.5] [23 16 0.5] [27 16 0.5] [29 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6b74bb90-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [752 832]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453319229
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 201
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 19 0.5] [3 18 0.5] [5 18 0.5] [9 18 0.5] [15 16 0.5] [20 12 0.5] [23 8 0.5] [25 3 0.5] [24 0 0.5] [20 1 0.5] [14 6 0.5] [12 12 0.5] [12 19 0.5] [15 24 0.5] [20 25 0.5] [26 23 0.5] [31 18 0.5] [37 11 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b59182d0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1145.5 1134.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453443472
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 90
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [2 0 0.5] [8 0 0.5] [14 0 0.5] [19 0 0.5] [22 1 0.5] [26 3 0.5] [27 5 0.5] [29 8 0.5] [30 13 0.5] [31 15 0.5] [31 18 0.5] [31 19 0.5] [31 20 0.5] [31 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e9e19c0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [802.5 542.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453163372
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690453105127
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 48
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[27 16 0.5] [28 16 0.5] [29 16 0.5] [30 15 0.5] [31 13 0.5] [32 10 0.5] [31 4 0.5] [28 2 0.5] [22 0 0.5] [16 1 0.5] [7 5 0.5] [2 11 0.5] [0 17 0.5] [3 22 0.5] [10 26 0.5] [16 28 0.5] [25 30 0.5] [31 34 0.5] [34 39 0.5] [34 44 0.5] [32 49 0.5] [27 55 0.5] [22 59 0.5] [19 61 0.5] [15 61 0.5] [12 58 0.5] [10 54 0.5] [10 51 0.5] [10 49 0.5] [10 47 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e9fc81b0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [147.5 439.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453101931
+:isComplete true}}
+:block/updated-at 1690453105127} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[15 8 0.5] [15 6 0.5] [15 4 0.5] [15 1 0.5] [13 0 0.5] [9 2 0.5] [5 7 0.5] [1 14 0.5] [0 19 0.5] [1 24 0.5] [4 25 0.5] [7 23 0.5] [10 18 0.5] [12 13 0.5] [13 10 0.5] [14 8 0.5] [14 10 0.5] [17 15 0.5] [20 20 0.5] [23 23 0.5] [27 24 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8c150c20-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [885.5 130.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452944378
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 2 0.5] [0 0 0.5] [1 2 0.5] [2 9 0.5] [3 17 0.5] [5 26 0.5] [7 33 0.5] [8 37 0.5] [8 38 0.5] [7 38 0.5] [5 36 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8c548620-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [919.5 110.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452944783
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453167860
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 95
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[15 1 0.5] [12 0 0.5] [11 0 0.5] [7 1 0.5] [6 2 0.5] [1 7 0.5] [0 12 0.5] [1 14 0.5] [4 16 0.5] [7 15 0.5] [10 12 0.5] [13 5 0.5] [14 3 0.5] [14 1 0.5] [15 2 0.5] [15 5 0.5] [17 10 0.5] [19 12 0.5] [21 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0f625420-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [880.5 541.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453164662
+:isComplete true}}
+:block/updated-at 1690453167860} 
+{:block/created-at 1690453308378
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 127
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[5 0 0.5] [3 3 0.5] [2 9 0.5] [2 13 0.5] [4 18 0.5] [6 20 0.5] [9 21 0.5] [15 16 0.5] [19 11 0.5] [21 7 0.5] [22 5 0.5] [23 5 0.5] [25 11 0.5] [26 18 0.5] [27 28 0.5] [28 35 0.5] [27 44 0.5] [24 52 0.5] [19 57 0.5] [10 60 0.5] [4 60 0.5] [1 57 0.5] [0 49 0.5] [4 38 0.5] [14 21 0.5] [22 11 0.5] [27 7 0.5] [30 5 0.5] [32 5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5801ca30-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1290.5 640.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453286513
+:isComplete true}}
+:block/updated-at 1690453308378} 
+{:block/created-at 1690453464385
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 203
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[6 22 0.5] [6 20 0.5] [5 20 0.5] [5 19 0.5] [5 17 0.5] [5 22 0.5] [4 28 0.5] [4 39 0.5] [4 47 0.5] [4 51 0.5] [4 55 0.5] [3 53 0.5] [1 46 0.5] [0 37 0.5] [1 25 0.5] [3 17 0.5] [10 6 0.5] [17 1 0.5] [22 0 0.5] [27 2 0.5] [30 7 0.5] [29 12 0.5] [24 19 0.5] [20 22 0.5] [15 24 0.5] [12 24 0.5] [10 24 0.5] [9 24 0.5] [12 25 0.5] [16 29 0.5] [22 35 0.5] [25 39 0.5] [29 44 0.5] [31 46 0.5] [32 47 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c0353470-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1601.5 383.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453461339
+:isComplete true}}
+:block/updated-at 1690453464385} 
+{:block/created-at 1690453136552
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 56
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[14 8 0.5] [14 7 0.5] [14 6 0.5] [14 4 0.5] [13 2 0.5] [12 1 0.5] [10 0 0.5] [7 1 0.5] [2 7 0.5] [0 15 0.5] [0 21 0.5] [4 29 0.5] [8 32 0.5] [12 33 0.5] [15 30 0.5] [17 25 0.5] [16 21 0.5] [13 14 0.5] [12 11 0.5] [10 9 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fa26fed0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [184.5 589.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453129042
+:isComplete true}}
+:block/updated-at 1690453136552} 
+{:block/created-at 1690453308378
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 121
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [1 2 0.5] [1 3 0.5] [2 4 0.5] [3 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "56f1e0d0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1165.5 635.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453284708
+:isComplete true}}
+:block/updated-at 1690453308378} 
+{:block/created-at 1690453259636
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 101
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[14 0 0.5] [13 0 0.5] [10 1 0.5] [6 4 0.5] [2 8 0.5] [2 11 0.5] [4 13 0.5] [7 15 0.5] [11 16 0.5] [14 17 0.5] [18 20 0.5] [18 24 0.5] [17 26 0.5] [14 30 0.5] [8 32 0.5] [5 33 0.5] [2 32 0.5] [0 31 0.5] [3 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "10beafd0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1013.5 520.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453166945
+:isComplete true}}
+:block/updated-at 1690453259636} 
+{:block/created-at 1690453259636
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 100
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 4 0.5] [0 3 0.5] [1 2 0.5] [2 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "10a61ec0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1001.5 519.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453166769
+:isComplete true}}
+:block/updated-at 1690453259636} 
+{:block/created-at 1690453283700
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 110
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [2 1 0.5] [4 4 0.5] [6 8 0.5] [7 16 0.5] [7 19 0.5] [7 22 0.5] [7 24 0.5] [7 21 0.5] [7 16 0.5] [9 7 0.5] [11 2 0.5] [13 0 0.5] [17 1 0.5] [21 4 0.5] [24 10 0.5] [25 15 0.5] [26 18 0.5] [27 20 0.5] [27 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4fe75b80-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [892.5 646.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453272910
+:isComplete true}}
+:block/updated-at 1690453283700} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [1 1 0.5] [2 6 0.5] [4 13 0.5] [7 17 0.5] [9 19 0.5] [11 19 0.5] [14 15 0.5] [16 8 0.5] [17 2 0.5] [17 0 0.5] [17 3 0.5] [18 8 0.5] [21 14 0.5] [24 19 0.5] [27 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8bb70da0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [843.5 131.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452943757
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 166
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [1 0 0.5] [2 1 0.5] [3 5 0.5] [4 15 0.5] [5 26 0.5] [7 33 0.5] [8 40 0.5] [8 41 0.5] [5 38 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6e02e080-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1032 808]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453323504
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[22 4 0.5] [21 2 0.5] [19 0 0.5] [15 0 0.5] [11 1 0.5] [6 4 0.5] [2 8 0.5] [0 10 0.5] [0 14 0.5] [2 17 0.5] [5 19 0.5] [10 22 0.5] [14 26 0.5] [19 33 0.5] [20 41 0.5] [20 46 0.5] [18 53 0.5] [16 56 0.5] [11 59 0.5] [5 57 0.5] [3 53 0.5] [1 47 0.5] [1 41 0.5] [2 37 0.5] [5 33 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8ac7cba0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [751.5 109.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452942197
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453425513
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 170
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[6 0 0.5] [3 2 0.5] [3 3 0.5] [1 6 0.5] [0 12 0.5] [2 21 0.5] [6 28 0.5] [12 31 0.5] [17 29 0.5] [19 26 0.5] [20 19 0.5] [17 11 0.5] [13 6 0.5] [8 2 0.5] [7 1 0.5] [6 3 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a8ca7c00-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [780.5 1042.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453422033
+:isComplete true}}
+:block/updated-at 1690453425513} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[1 4 0.5] [1 5 0.5] [0 10 0.5] [0 16 0.5] [3 22 0.5] [6 26 0.5] [8 27 0.5] [12 25 0.5] [14 21 0.5] [16 16 0.5] [16 14 0.5] [16 15 0.5] [17 20 0.5] [20 24 0.5] [24 25 0.5] [28 24 0.5] [33 19 0.5] [36 12 0.5] [37 7 0.5] [36 3 0.5] [35 0 0.5] [34 0 0.5] [33 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "93774e60-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1142.5 124.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452956767
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453136549
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 58
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [1 6 0.5] [2 12 0.5] [2 15 0.5] [3 18 0.5] [3 19 0.5] [2 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "facded30-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [242.5 589.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453130124
+:isComplete true}}
+:block/updated-at 1690453136549} 
+{:block/created-at 1690453001134
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[6 53 0.5] [4 54 0.5] [3 54 0.5] [2 55 0.5] [1 55 0.5] [0 55 0.5] [2 55 0.5] [7 54 0.5] [21 50 0.5] [45 45 0.5] [66 40 0.5] [99 35 0.5] [137 29 0.5] [177 23 0.5] [222 18 0.5] [258 14 0.5] [304 10 0.5] [350 7 0.5] [396 4 0.5] [443 2 0.5] [477 1 0.5] [521 0 0.5] [562 0 0.5] [598 1 0.5] [627 3 0.5] [643 4 0.5] [659 7 0.5] [678 10 0.5] [680 11 0.5] [681 11 0.5] [682 11 0.5] [682 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ab64cb60-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [572.5 167.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452996920
+:isComplete true}}
+:block/updated-at 1690453001134} 
+{:block/created-at 1690453284569
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 117
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [1 0 0.5] [2 1 0.5] [3 4 0.5] [4 10 0.5] [4 16 0.5] [4 20 0.5] [4 23 0.5] [3 24 0.5] [3 23 0.5] [3 18 0.5] [5 12 0.5] [8 5 0.5] [10 2 0.5] [13 0 0.5] [16 2 0.5] [18 7 0.5] [19 13 0.5] [20 19 0.5] [20 22 0.5] [21 25 0.5] [21 26 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "55c93f50-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1082.5 641.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453282780
+:isComplete true}}
+:block/updated-at 1690453284569} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 88
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 21 0.5] [1 21 0.5] [6 19 0.5] [12 17 0.5] [17 14 0.5] [21 9 0.5] [22 6 0.5] [21 2 0.5] [16 0 0.5] [12 1 0.5] [8 6 0.5] [6 10 0.5] [8 15 0.5] [12 19 0.5] [16 21 0.5] [20 22 0.5] [23 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e225a10-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [775.5 535.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453162563
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690452987798
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[1 1 0.5] [1 0 0.5] [1 5 0.5] [0 15 0.5] [1 27 0.5] [1 38 0.5] [2 44 0.5] [2 49 0.5] [3 52 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "931b24a0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1103.5 105.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452956149
+:isComplete true}}
+:block/updated-at 1690452987798} 
+{:block/created-at 1690453664006
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 211
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[0 7 0.5] [6 6 0.5] [10 6 0.5] [14 6 0.5] [44 4 0.5] [89 2 0.5] [133 1 0.5] [195 0 0.5] [249 2 0.5] [287 5 0.5] [307 7 0.5] [314 8 0.5] [318 9 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c1d046d0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1551.5 445.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453464011
+:isComplete true}}
+:block/updated-at 1690453664006} 
+{:block/created-at 1690453139690
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 63
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[13 11 0.5] [14 10 0.5] [15 9 0.5] [15 6 0.5] [15 3 0.5] [13 1 0.5] [11 0 0.5] [7 1 0.5] [3 6 0.5] [0 13 0.5] [0 19 0.5] [2 22 0.5] [4 24 0.5] [8 22 0.5] [11 19 0.5] [13 12 0.5] [13 9 0.5] [13 7 0.5] [14 6 0.5] [14 7 0.5] [16 11 0.5] [17 14 0.5] [20 16 0.5] [23 17 0.5] [25 17 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fcdc0cb0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [171.5 682.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453133589
+:isComplete true}}
+:block/updated-at 1690453139690} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 93
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 2 0.5] [1 1 0.5] [1 0 0.5] [2 0 0.5] [3 2 0.5] [3 7 0.5] [4 12 0.5] [5 16 0.5] [5 19 0.5] [5 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0f0d0830-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [864.5 539.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453164094
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690452987794
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[14 6 0.5] [14 5 0.5] [15 2 0.5] [13 0 0.5] [10 1 0.5] [5 9 0.5] [1 18 0.5] [0 30 0.5] [2 43 0.5] [5 49 0.5] [10 54 0.5] [15 54 0.5] [18 51 0.5] [20 45 0.5] [20 41 0.5] [17 35 0.5] [13 34 0.5] [10 36 0.5] [6 40 0.5] [5 44 0.5] [5 47 0.5] [6 48 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8a3acde0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [653.5 109.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452941269
+:isComplete true}}
+:block/updated-at 1690452987794} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 140
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[17 5 0.5] [18 4 0.5] [18 3 0.5] [17 1 0.5] [14 0 0.5] [11 0 0.5] [5 4 0.5] [1 11 0.5] [0 19 0.5] [3 25 0.5] [7 27 0.5] [13 27 0.5] [19 22 0.5] [23 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "67255ea0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1000 920]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453311919
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453308378
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 123
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [1 0 0.5] [2 1 0.5] [3 6 0.5] [4 12 0.5] [4 17 0.5] [5 19 0.5] [5 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "574f1c00-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1208.5 649.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453285322
+:isComplete true}}
+:block/updated-at 1690453308378} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 158
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[17 8 0.5] [18 7 0.5] [19 6 0.5] [18 3 0.5] [17 1 0.5] [14 0 0.5] [9 0 0.5] [6 1 0.5] [1 8 0.5] [0 12 0.5] [2 18 0.5] [7 22 0.5] [12 24 0.5] [19 23 0.5] [24 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6bbd5d50-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [784 832]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453319698
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453284569
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 118
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 18 0.5] [0 17 0.5] [2 17 0.5] [6 16 0.5] [9 14 0.5] [13 11 0.5] [16 6 0.5] [16 3 0.5] [14 1 0.5] [11 0 0.5] [6 2 0.5] [2 8 0.5] [1 13 0.5] [3 19 0.5] [5 22 0.5] [8 24 0.5] [11 24 0.5] [14 24 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "560d9b50-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1107.5 641.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453283224
+:isComplete true}}
+:block/updated-at 1690453284569} 
+{:block/created-at 1690453444251
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 188
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 2 0.5] [2 8 0.5] [2 15 0.5] [2 19 0.5] [2 21 0.5] [1 21 0.5] [0 18 0.5] [1 11 0.5] [3 6 0.5] [6 2 0.5] [9 3 0.5] [13 8 0.5] [15 14 0.5] [16 18 0.5] [16 20 0.5] [16 17 0.5] [17 9 0.5] [19 5 0.5] [22 2 0.5] [25 3 0.5] [27 7 0.5] [30 15 0.5] [31 18 0.5] [32 20 0.5] [32 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b309ed90-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [851.5 1144.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453439236
+:isComplete true}}
+:block/updated-at 1690453444251} 
+{:block/created-at 1690453283704
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 112
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [2 0 0.5] [1 2 0.5] [0 5 0.5] [0 10 0.5] [0 14 0.5] [2 19 0.5] [5 22 0.5] [8 21 0.5] [11 18 0.5] [11 15 0.5] [9 9 0.5] [4 4 0.5] [2 4 0.5] [0 4 0.5] [0 5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "508d8690-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [958.5 641.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453273995
+:isComplete true}}
+:block/updated-at 1690453283704} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 31
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 24 0.5] [0 23 0.5] [1 23 0.5] [3 23 0.5] [5 22 0.5] [9 21 0.5] [14 18 0.5] [17 12 0.5] [18 7 0.5] [16 2 0.5] [14 0 0.5] [11 0 0.5] [7 4 0.5] [3 14 0.5] [5 23 0.5] [8 28 0.5] [13 32 0.5] [17 32 0.5] [21 32 0.5] [25 29 0.5] [28 26 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b1f2a6a0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [582.5 300.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453007904
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453139690
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 64
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[1 0 0.5] [1 1 0.5] [0 2 0.5] [0 8 0.5] [2 14 0.5] [3 16 0.5] [6 18 0.5] [8 18 0.5] [11 14 0.5] [12 7 0.5] [13 5 0.5] [13 2 0.5] [14 7 0.5] [15 16 0.5] [17 27 0.5] [17 36 0.5] [15 42 0.5] [13 45 0.5] [9 47 0.5] [4 45 0.5] [2 39 0.5] [3 30 0.5] [6 23 0.5] [11 16 0.5] [15 11 0.5] [18 9 0.5] [19 8 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fd274680-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [201.5 681.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453134084
+:isComplete true}}
+:block/updated-at 1690453139690} 
+{:block/created-at 1690453105127
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 49
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 16 0.5] [1 16 0.5] [2 15 0.5] [5 15 0.5] [8 14 0.5] [14 12 0.5] [19 9 0.5] [22 7 0.5] [23 5 0.5] [23 3 0.5] [21 1 0.5] [17 0 0.5] [11 2 0.5] [5 8 0.5] [1 16 0.5] [2 21 0.5] [6 27 0.5] [13 30 0.5] [19 30 0.5] [24 27 0.5] [26 26 0.5] [27 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ea5a5920-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [184.5 465.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453102537
+:isComplete true}}
+:block/updated-at 1690453105127} 
+{:block/created-at 1690453259633
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 102
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [3 2 0.5] [2 10 0.5] [2 18 0.5] [1 31 0.5] [0 38 0.5] [0 42 0.5] [0 45 0.5] [0 46 0.5] [0 44 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "10f9bd00-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1051.5 507.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453167324
+:isComplete true}}
+:block/updated-at 1690453259633} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 35
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 5 0.5] [2 13 0.5] [3 28 0.5] [5 38 0.5] [6 47 0.5] [6 53 0.5] [7 54 0.5] [7 51 0.5] [7 46 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b2d58c90-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [673.5 280.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453009381
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 141
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [2 6 0.5] [2 11 0.5] [3 18 0.5] [4 21 0.5] [4 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "674b0f10-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1032 920]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453312159
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690453136549
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 59
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[1 4 0.5] [0 3 0.5] [0 1 0.5] [1 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "faea9cf0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [234.5 576.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453130308
+:isComplete true}}
+:block/updated-at 1690453136549} 
+{:block/created-at 1690453660241
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 207
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[1 7 0.5] [3 10 0.5] [3 11 0.5] [2 16 0.5] [1 22 0.5] [1 24 0.5] [0 26 0.5] [0 24 0.5] [1 18 0.5] [7 8 0.5] [13 3 0.5] [21 0 0.5] [27 2 0.5] [31 7 0.5] [33 12 0.5] [34 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c1465650-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1719.5 398.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453463111
+:isComplete true}}
+:block/updated-at 1690453660241} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 156
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 13 0.5] [0 13 0.5] [1 13 0.5] [5 13 0.5] [9 13 0.5] [16 12 0.5] [21 10 0.5] [24 8 0.5] [26 6 0.5] [25 3 0.5] [22 0 0.5] [17 0 0.5] [12 1 0.5] [6 6 0.5] [2 12 0.5] [2 18 0.5] [5 24 0.5] [10 27 0.5] [17 27 0.5] [24 26 0.5] [29 23 0.5] [32 20 0.5] [34 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6b2b7d90-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [712 832]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453318750
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453283704
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 113
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [1 0 0.5] [2 0 0.5] [4 4 0.5] [5 11 0.5] [6 16 0.5] [5 20 0.5] [5 22 0.5] [5 23 0.5] [5 20 0.5] [6 16 0.5] [8 12 0.5] [10 9 0.5] [12 9 0.5] [14 12 0.5] [15 14 0.5] [16 18 0.5] [17 15 0.5] [18 10 0.5] [21 4 0.5] [24 0 0.5] [27 1 0.5] [29 6 0.5] [31 12 0.5] [31 16 0.5] [32 19 0.5] [33 21 0.5] [33 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "50c33c90-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [976.5 640.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453274359
+:isComplete true}}
+:block/updated-at 1690453283704} 
+{:block/created-at 1690453427488
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 176
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[33 7 0.5] [34 3 0.5] [34 2 0.5] [34 0 0.5] [30 0 0.5] [26 4 0.5] [21 14 0.5] [19 25.000000000000114 0.5] [18 38.000000000000114 0.5] [18 49.000000000000114 0.5] [18 56.000000000000114 0.5] [15 66.00000000000011 0.5] [13 69.00000000000011 0.5] [9 71.00000000000011 0.5] [4 69.00000000000011 0.5] [0 65.00000000000011 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "aa88f4e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [982.5 1009.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453424960
+:isComplete true}}
+:block/updated-at 1690453427488} 
+{:block/created-at 1690453284568
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 115
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 23 0.5] [0 22 0.5] [0 21 0.5] [0 20 0.5] [0 19 0.5] [0 15 0.5] [1 12 0.5] [4 7 0.5] [9 2 0.5] [13 0 0.5] [18 0 0.5] [21 3 0.5] [22 8 0.5] [20 14 0.5] [17 18 0.5] [14 23 0.5] [12 25 0.5] [11 26 0.5] [12 25 0.5] [15 24 0.5] [19 24 0.5] [23 25 0.5] [27 28 0.5] [29 33 0.5] [28 38 0.5] [24 44 0.5] [19 48 0.5] [16 50 0.5] [11 51 0.5] [8 50 0.5] [5 47 0.5] [4 44 0.5] [4 42 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "55262180-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1019.5 621.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453281723
+:isComplete true}}
+:block/updated-at 1690453284568} 
+{:block/created-at 1690453438214
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 180
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [7 3 0.5] [9 3 0.5] [16 4 0.5] [24 5 0.5] [29 6 0.5] [32 6 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ab38bce0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1031.5 1038.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453426102
+:isComplete true}}
+:block/updated-at 1690453438214} 
+{:block/created-at 1690453275048
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 108
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 11 0.5] [0 9 0.5] [0 8 0.5] [1 10 0.5] [3 17 0.5] [5 25 0.5] [7 36 0.5] [9 46 0.5] [9 52 0.5] [10 56 0.5] [10 58 0.5] [9 57 0.5] [7 51 0.5] [6 43 0.5] [5 31 0.5] [7 17 0.5] [9 10 0.5] [15 3 0.5] [20 0 0.5] [27 0 0.5] [32 4 0.5] [33 8 0.5] [31 18 0.5] [26 25 0.5] [21 29 0.5] [17 32 0.5] [15 32 0.5] [14 32 0.5] [15 31 0.5] [18 32 0.5] [23 35 0.5] [28 39 0.5] [34 44 0.5] [39 48 0.5] [41 51 0.5] [43 52 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4a632810-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [809.5 621.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453263670
+:isComplete true}}
+:block/updated-at 1690453275048} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 152
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [1 2 0.5] [2 7 0.5] [3 14 0.5] [4 18 0.5] [4 20 0.5] [5 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "698324c0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1272 920]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453315883
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453139691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 61
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [0 4 0.5] [0 12 0.5] [1 19 0.5] [2 27 0.5] [3 34 0.5] [4 38 0.5] [4 39 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fc753490-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [149.5 672.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453132899
+:isComplete true}}
+:block/updated-at 1690453139691} 
+{:block/created-at 1690453167860
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 97
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[4 3 0.5] [4 4 0.5] [3 5 0.5] [3 10 0.5] [3 14 0.5] [6 19 0.5] [9 19 0.5] [15 16 0.5] [20 10 0.5] [22 5 0.5] [24 1 0.5] [24 0 0.5] [24 5 0.5] [24 15 0.5] [24 24 0.5] [24 35 0.5] [22 43 0.5] [18 49 0.5] [12 52 0.5] [7 53 0.5] [2 52 0.5] [0 47 0.5] [2 40 0.5] [12 27 0.5] [17 21 0.5] [22 16 0.5] [25 13 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0fca64c0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [933.5 534.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453165352
+:isComplete true}}
+:block/updated-at 1690453167860} 
+{:block/created-at 1690453139691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 68
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 0 0.5] [2 2 0.5] [3 7 0.5] [4 16 0.5] [5 24 0.5] [6 29 0.5] [7 33 0.5] [7 35 0.5] [6 34 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fe4adef0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [315.5 658.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453135977
+:isComplete true}}
+:block/updated-at 1690453139691} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 85
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[4 6 0.5] [4 5 0.5] [3 4 0.5] [3 2 0.5] [3 1 0.5] [3 0 0.5] [3 1 0.5] [2 6 0.5] [2 12 0.5] [2 21 0.5] [2 28 0.5] [2 36 0.5] [2 40 0.5] [2 41 0.5] [1 42 0.5] [0 39 0.5] [0 36 0.5] [1 29 0.5] [3 25 0.5] [8 21 0.5] [14 19 0.5] [19 18 0.5] [24 20 0.5] [28 24 0.5] [28 28 0.5] [25 32 0.5] [22 35 0.5] [16 38 0.5] [11 39 0.5] [8 39 0.5] [4 38 0.5] [2 37 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0d467900-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [706.5 527.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453161138
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 146
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [1 9 0.5] [2 17 0.5] [3 28 0.5] [4 36 0.5] [4 39 0.5] [3 40 0.5] [2 40 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "68814520-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1152 896]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453314194
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[7 4 0.5] [7 3 0.5] [4 5 0.5] [1 11 0.5] [0 16 0.5] [1 23 0.5] [4 25 0.5] [9 26 0.5] [14 22 0.5] [16 17 0.5] [16 10 0.5] [13 4 0.5] [9 1 0.5] [6 0 0.5] [5 1 0.5] [4 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "93420d90-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1116.5 129.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452956411
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453287172
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 120
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 0 0.5] [0 1 0.5] [3 2 0.5] [9 2 0.5] [14 2 0.5] [21 2 0.5] [25 2 0.5] [27 1 0.5] [29 2 0.5] [31 3 0.5] [31 6 0.5] [32 10 0.5] [33 17 0.5] [34 21 0.5] [34 22 0.5] [34 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5696ef90-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1129.5 644.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453284122
+:isComplete true}}
+:block/updated-at 1690453287172} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 32
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 2 0.5] [0 1 0.5] [0 0 0.5] [1 1 0.5] [2 5 0.5] [3 15 0.5] [3 20 0.5] [3 24 0.5] [3 27 0.5] [3 28 0.5] [2 28 0.5] [1 24 0.5] [1 16 0.5] [4 10 0.5] [6 7 0.5] [8 7 0.5] [11 9 0.5] [14 15 0.5] [15 20 0.5] [15 22 0.5] [15 25 0.5] [14 25 0.5] [14 23 0.5] [15 14 0.5] [17 8 0.5] [19 4 0.5] [22 3 0.5] [25 5 0.5] [29 11 0.5] [30 17 0.5] [31 21 0.5] [32 25 0.5] [32 26 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b2344380-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [617.5 303.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453008346
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453006914
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[22 22 0.5] [23 23 0.5] [24 23 0.5] [25 22 0.5] [26 22 0.5] [27 20 0.5] [29 16 0.5] [29 12 0.5] [28 7 0.5] [25 2 0.5] [22 0 0.5] [16 0 0.5] [9 5 0.5] [4 13 0.5] [0 25 0.5] [0 34 0.5] [4 44 0.5] [15 51 0.5] [22 53 0.5] [31 52 0.5] [38 50 0.5] [41 49 0.5] [44 46 0.5] [45 44 0.5] [47 41 0.5] [48 39 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "afebda20-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [383.5 292.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453004509
+:isComplete true}}
+:block/updated-at 1690453006914} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 161
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [2 0 0.5] [2 1 0.5] [3 1 0.5] [5 7 0.5] [6 12 0.5] [7 17 0.5] [7 20 0.5] [7 19 0.5] [7 15 0.5] [9 7 0.5] [12 3 0.5] [14 2 0.5] [17 4 0.5] [19 8 0.5] [22 14 0.5] [27 17 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6c6ab450-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [864 832]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453320836
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453259636
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 98
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [1 2 0.5] [1 9 0.5] [1 18 0.5] [1 24 0.5] [1 30 0.5] [1 33 0.5] [1 36 0.5] [1 38 0.5] [1 39 0.5] [3 39 0.5] [7 38 0.5] [12 37 0.5] [17 36 0.5] [21 36 0.5] [23 36 0.5] [25 36 0.5] [27 36 0.5] [28 36 0.5] [28 35 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1045af40-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [969.5 514.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453166154
+:isComplete true}}
+:block/updated-at 1690453259636} 
+{:block/created-at 1690453425516
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 171
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 2 0.5] [1 6 0.5] [3 15 0.5] [6 21 0.5] [8 23 0.5] [12 22 0.5] [16 18 0.5] [18 13 0.5] [21 6 0.5] [21 5 0.5] [22 4 0.5] [22 7 0.5] [22 10 0.5] [23 16 0.5] [24 19 0.5] [25 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a9084850-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [812.5 1042.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453422439
+:isComplete true}}
+:block/updated-at 1690453425516} 
+{:block/created-at 1690453146480
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 79
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 9 0.5] [1 8 0.5] [7 7 0.5] [17 5 0.5] [26 3 0.5] [37 1 0.5] [45 0 0.5] [47 0 0.5] [48 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "035e7640-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [721.5 417.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453144494
+:isComplete true}}
+:block/updated-at 1690453146480} 
+{:block/created-at 1690453444251
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 191
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [0 1 0.5] [0 3 0.5] [0 15 0.5] [1 23 0.5] [2 31 0.5] [3 35 0.5] [3 36 0.5] [0 34 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b3c54e50-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [952.5 1129.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453440448
+:isComplete true}}
+:block/updated-at 1690453444251} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 142
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 6 0.5] [0 4 0.5] [0 2 0.5] [0 1 0.5] [1 0 0.5] [2 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6767bed0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1032 896]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453312346
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453440962
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 184
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [1 3 0.5] [1 13 0.5] [2 24 0.5] [3 35 0.5] [3 45 0.5] [4 50 0.5] [4 54 0.5] [4 56 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b1faee90-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [740.5 1145.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453437444
+:isComplete true}}
+:block/updated-at 1690453440962} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 87
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [2 0 0.5] [3 3 0.5] [3 9 0.5] [4 13 0.5] [4 16 0.5] [4 19 0.5] [3 20 0.5] [3 19 0.5] [4 14 0.5] [6 10 0.5] [9 6 0.5] [11 5 0.5] [13 5 0.5] [17 10 0.5] [18 14 0.5] [19 18 0.5] [19 21 0.5] [19 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0de3f180-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [752.5 543.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453162157
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690453146480
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 80
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[3 14 0.5] [3 15 0.5] [3 16 0.5] [3 17 0.5] [5 17 0.5] [9 15 0.5] [13 11 0.5] [15 6 0.5] [16 4 0.5] [15 1 0.5] [11 0 0.5] [6 2 0.5] [1 9 0.5] [0 14 0.5] [1 20 0.5] [7 23 0.5] [12 24 0.5] [22 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "03853820-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [766.5 434.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453144757
+:isComplete true}}
+:block/updated-at 1690453146480} 
+{:block/created-at 1690453016387
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 40
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 16 0.5] [3 17 0.5] [5 17 0.5] [10 16 0.5] [16 14 0.5] [20 12 0.5] [24 8 0.5] [24 5 0.5] [23 2 0.5] [18 0 0.5] [13 1 0.5] [6 6 0.5] [2 13 0.5] [3 20 0.5] [9 25 0.5] [14 27 0.5] [21 28 0.5] [27 25 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b4c06ca0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [885.5 300.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453012605
+:isComplete true}}
+:block/updated-at 1690453016387} 
+{:block/created-at 1690453262863
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 104
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[15 7 0.5] [16 7 0.5] [17 7 0.5] [18 6 0.5] [18 5 0.5] [18 2 0.5] [17 1 0.5] [16 0 0.5] [12 1 0.5] [9 3 0.5] [4 8 0.5] [1 14 0.5] [0 18 0.5] [1 21 0.5] [3 22 0.5] [7 23 0.5] [12 22 0.5] [18 23 0.5] [22 26 0.5] [25 30 0.5] [25 34 0.5] [23 40 0.5] [20 44 0.5] [13 47 0.5] [9 47 0.5] [6 45 0.5] [4 41 0.5] [4 36 0.5] [6 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "47275e00-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [719.5 633.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453258239
+:isComplete true}}
+:block/updated-at 1690453262863} 
+{:block/created-at 1690453016387
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 39
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[27 23 0.5] [28 23 0.5] [29 21 0.5] [30 19 0.5] [31 16 0.5] [32 14 0.5] [33 11 0.5] [33 8 0.5] [31 4 0.5] [26 1 0.5] [22 0 0.5] [15 0 0.5] [7 4 0.5] [2 8 0.5] [0 16 0.5] [3 22 0.5] [7 26 0.5] [16 30 0.5] [22 32 0.5] [29 36 0.5] [32 40 0.5] [33 43 0.5] [32 48 0.5] [29 51 0.5] [24 54 0.5] [18 55 0.5] [14 53 0.5] [9 50 0.5] [7 47 0.5] [7 45 0.5] [10 41 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b4650630-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [844.5 279.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453012019
+:isComplete true}}
+:block/updated-at 1690453016387} 
+{:block/content "can't access client jira url using 7th floor Wi-Fi"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64c243ac-774d-49eb-9769-c7b3ffe58f81"}
+:block/parent 
+{:block/uuid #uuid "64c243ac-774d-49eb-9769-c7b3ffe58f81"}
+:block/uuid #uuid "64c2464d-21da-4afd-a798-4d3e66f91ae0"} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 200
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[5 1 0.5] [7 0 0.5] [6 1 0.5] [3 3 0.5] [1 6 0.5] [0 10 0.5] [1 12 0.5] [4 14 0.5] [7 15 0.5] [10 16 0.5] [13 19 0.5] [13 21 0.5] [12 24 0.5] [9 27 0.5] [6 28 0.5] [4 29 0.5] [3 29 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b55e64e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1132.5 1134.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453443136
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453427488
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 175
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[18 12 0.5] [21 8 0.5] [22 7 0.5] [22 5 0.5] [21 1 0.5] [18 0 0.5] [12 2 0.5] [5 9 0.5] [0 21 0.5] [2 34 0.5] [7 39 0.5] [13 41 0.5] [19 38 0.5] [24 30 0.5] [25 18 0.5] [24 10 0.5] [21 2 0.5] [19 1 0.5] [20 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "aa4cd640-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [958.5 1024.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453424568
+:isComplete true}}
+:block/updated-at 1690453427488} 
+{:block/created-at 1690453100001
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 44
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[15 0 0.5] [14 0 0.5] [7 8 0.5] [1 19 0.5] [0 26 0.5] [2 32 0.5] [5 34 0.5] [11 33 0.5] [17 26 0.5] [19 20 0.5] [18 13 0.5] [14 10 0.5] [9 7 0.5] [6 7 0.5] [4 8 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5fdcea0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1078.5 295.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453014682
+:isComplete true}}
+:block/updated-at 1690453100001} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 92
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[17 3 0.5] [17 2 0.5] [15 0 0.5] [12 0 0.5] [6 2 0.5] [2 7 0.5] [0 11 0.5] [1 17 0.5] [4 20 0.5] [9 22 0.5] [13 21 0.5] [16 18 0.5] [19 12 0.5] [20 8 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0ee9a1b0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [842.5 539.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453163866
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690453142296
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 76
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 16 0.5] [1 16 0.5] [2 17 0.5] [4 17 0.5] [8 16 0.5] [10 13 0.5] [13 8 0.5] [14 3 0.5] [13 0 0.5] [11 0 0.5] [8 3 0.5] [5 9 0.5] [5 14 0.5] [8 18 0.5] [14 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "000a6940-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [467.5 667.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453138916
+:isComplete true}}
+:block/updated-at 1690453142296} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 164
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[5 3 0.5] [4 2 0.5] [4 3 0.5] [3 10 0.5] [4 22 0.5] [5 28 0.5] [5 33 0.5] [5 36 0.5] [5 37 0.5] [2 34 0.5] [0 28 0.5] [0 17 0.5] [1 10 0.5] [5 3 0.5] [10 0 0.5] [13 0 0.5] [16 4 0.5] [16 9 0.5] [12 15 0.5] [7 20 0.5] [4 21 0.5] [1 22 0.5] [0 22 0.5] [1 21 0.5] [5 22 0.5] [9 25 0.5] [14 31 0.5] [19 36 0.5] [23 39 0.5] [27 40 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6d6e8fc0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [952 816]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453322552
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 94
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 2 0.5] [0 1 0.5] [1 0 0.5] [2 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0f313200-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [866.5 529.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453164325
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 33
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [2 2 0.5] [4 8 0.5] [5 16 0.5] [6 21 0.5] [7 25 0.5] [7 27 0.5] [6 27 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b295c470-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [655.5 303.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453008961
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 131
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 8 0.5] [2 8 0.5] [11 6 0.5] [19 4 0.5] [29 2 0.5] [35 1 0.5] [37 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "64df6640-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [768 920]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453308098
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453139691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 67
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 1 0.5] [1 1 0.5] [3 6 0.5] [4 10 0.5] [5 16 0.5] [5 20 0.5] [5 22 0.5] [5 20 0.5] [6 13 0.5] [8 6 0.5] [10 2 0.5] [13 0 0.5] [16 1 0.5] [20 7 0.5] [22 13 0.5] [24 17 0.5] [25 19 0.5] [25 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fe0daee0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [282.5 673.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453135585
+:isComplete true}}
+:block/updated-at 1690453139691} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 5 0.5] [0 4 0.5] [0 2 0.5] [0 1 0.5] [1 1 0.5] [2 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8b350c60-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [784.5 122.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452942894
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 137
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[2 21 0.5] [2 23 0.5] [3 27 0.5] [4 35 0.5] [5 41 0.5] [5 47 0.5] [5 51 0.5] [5 53 0.5] [3 51 0.5] [1 42 0.5] [0 31 0.5] [1 19 0.5] [2 11 0.5] [7 3 0.5] [12 0 0.5] [16 0 0.5] [19 1 0.5] [19 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "668ca110-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [944 888]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453310922
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690453444251
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 192
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 6 0.5] [0 4 0.5] [1 4 0.5] [4 3 0.5] [13 2 0.5] [22 2 0.5] [26 1 0.5] [29 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b3e33690-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [934.5 1139.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453440643
+:isComplete true}}
+:block/updated-at 1690453444251} 
+{:block/created-at 1690453010815
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 27
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 13 0.5] [2 9 0.5] [6 7 0.5] [13 4 0.5] [20 2 0.5] [24 1 0.5] [27 0 0.5] [29 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b0dcf0e0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [453.5 306.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453006071
+:isComplete true}}
+:block/updated-at 1690453010815} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 34
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 5 0.5] [0 3 0.5] [0 1 0.5] [0 0 0.5] [1 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b2b421e0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [649.5 287.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453009156
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453259636
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 99
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 2 0.5] [0 7 0.5] [0 12 0.5] [0 15 0.5] [0 18 0.5] [0 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "108aa780-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1004.5 527.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453166592
+:isComplete true}}
+:block/updated-at 1690453259636} 
+{:block/created-at 1690453425515
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 174
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 19 0.5] [1 19 0.5] [2 20 0.5] [6 19 0.5] [10 18 0.5] [16 13 0.5] [19 7 0.5] [19 3 0.5] [17 2 0.5] [13 4 0.5] [7 10 0.5] [5 17 0.5] [7 23 0.5] [12 24 0.5] [16 23 0.5] [23 18 0.5] [29 9 0.5] [32 4 0.5] [33 1 0.5] [32 0 0.5] [29 3 0.5] [27 7 0.5] [28 11 0.5] [31 13 0.5] [36 16 0.5] [39 18 0.5] [41 21 0.5] [41 23 0.5] [38 27 0.5] [33 29 0.5] [29 30 0.5] [25 29 0.5] [23 24 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a99c9910-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [903.5 1035.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453423427
+:isComplete true}}
+:block/updated-at 1690453425515} 
+{:block/created-at 1690453262863
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 107
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 9 0.5] [1 8 0.5] [2 7 0.5] [10 4 0.5] [18 2 0.5] [23 1 0.5] [29 0 0.5] [31 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "47d1ced0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [773.5 641.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453259335
+:isComplete true}}
+:block/updated-at 1690453262863} 
+{:block/created-at 1690453660241
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 209
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[0 6 0.5] [2 4 0.5] [4 3 0.5] [11 2 0.5] [19 1 0.5] [30 0 0.5] [34 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c1964b10-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1759.5 391.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453463626
+:isComplete true}}
+:block/updated-at 1690453660241} 
+{:block/created-at 1690453438212
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 183
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[23 0 0.5] [24 4 0.5] [24 6 0.5] [24 11.000000000000114 0.5] [25 24.000000000000114 0.5] [26 32.000000000000114 0.5] [27 39.000000000000114 0.5] [27 42.000000000000114 0.5] [26 37.000000000000114 0.5] [23 33.000000000000114 0.5] [17 29.000000000000114 0.5] [10 30.000000000000114 0.5] [4 33.000000000000114 0.5] [0 39.000000000000114 0.5] [0 45.000000000000114 0.5] [4 50.000000000000114 0.5] [10 52.000000000000114 0.5] [15 52.000000000000114 0.5] [21 51.000000000000114 0.5] [24 50.000000000000114 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "abbbf6a0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1129.5 1017.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453426975
+:isComplete true}}
+:block/updated-at 1690453438212} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 143
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[15 5 0.5] [18 4 0.5] [19 3 0.5] [20 1 0.5] [19 0 0.5] [15 0 0.5] [9 3 0.5] [3 10 0.5] [0 15 0.5] [1 21 0.5] [5 25 0.5] [9 24 0.5] [13 20 0.5] [15 16 0.5] [16 11 0.5] [16 9 0.5] [16 8 0.5] [19 11 0.5] [21 15 0.5] [24 19 0.5] [25 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "67861c40-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1040 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453312560
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690453308378
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 124
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 5 0.5] [0 4 0.5] [0 3 0.5] [0 1 0.5] [0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "576d2b50-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1210.5 636.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453285516
+:isComplete true}}
+:block/updated-at 1690453308378} 
+{:block/created-at 1690453146480
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 81
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[6 3 0.5] [7 3 0.5] [8 0 0.5] [6 1 0.5] [4 3 0.5] [1 8 0.5] [0 12 0.5] [0 14 0.5] [2 17 0.5] [4 17 0.5] [8 17 0.5] [12 19 0.5] [14 21 0.5] [14 25 0.5] [13 28 0.5] [10 33 0.5] [7 34 0.5] [4 34 0.5] [1 32 0.5] [0 28 0.5] [1 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "03b6cf70-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [797.5 427.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453145085
+:isComplete true}}
+:block/updated-at 1690453146480} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 148
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 20 0.5] [2 21 0.5] [3 21 0.5] [5 21 0.5] [12 19 0.5] [17 16 0.5] [20 11 0.5] [21 6 0.5] [20 2 0.5] [15 0 0.5] [10 3 0.5] [8 7 0.5] [7 15 0.5] [9 21 0.5] [14 27 0.5] [18 29 0.5] [24 30 0.5] [30 29 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "68cccd10-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1176 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453314698
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 193
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 2 0.5] [1 3 0.5] [1 11 0.5] [2 21 0.5] [3 27 0.5] [4 32 0.5] [4 34 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b42596c0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1000.5 1139.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453441077
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453136552
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 60
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 0 0.5] [2 2 0.5] [3 5 0.5] [5 11 0.5] [6 16 0.5] [7 21 0.5] [8 26 0.5] [7 27 0.5] [6 24 0.5] [6 19 0.5] [7 11 0.5] [8 8 0.5] [10 6 0.5] [14 5 0.5] [17 7 0.5] [21 12 0.5] [24 18 0.5] [26 22 0.5] [28 25 0.5] [28 27 0.5] [29 28 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fb088530-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [251.5 583.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453130521
+:isComplete true}}
+:block/updated-at 1690453136552} 
+{:block/created-at 1690453100001
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 47
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[6 9 0.5] [5 12 0.5] [5 18 0.5] [6 25 0.5] [10 31 0.5] [15 32 0.5] [24 29 0.5] [32 21 0.5] [36 12 0.5] [40 3 0.5] [40 0 0.5] [41 1 0.5] [42 12 0.5] [43 24 0.5] [44 44 0.5] [42 64 0.5] [35 82 0.5] [24 92 0.5] [15 95 0.5] [4 93 0.5] [0 83 0.5] [6 64 0.5] [22 44 0.5] [32 34 0.5] [42 27 0.5] [46 24 0.5] [47 24 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b6a35d70-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1171.5 284.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453015779
+:isComplete true}}
+:block/updated-at 1690453100001} 
+{:block/created-at 1690453444252
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 186
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[14 7 0.5] [15 3 0.5] [14 2 0.5] [14 1 0.5] [13 1 0.5] [13 0 0.5] [12 0 0.5] [9 1 0.5] [4 5 0.5] [1 12 0.5] [0 18 0.5] [1 22 0.5] [4 26 0.5] [7 26 0.5] [11 24 0.5] [14 19 0.5] [15 15 0.5] [15 12 0.5] [16 11 0.5] [17 15 0.5] [18 18 0.5] [22 22 0.5] [27 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b2796d60-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [790.5 1134.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453438286
+:isComplete true}}
+:block/updated-at 1690453444252} 
+{:block/created-at 1690453308378
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 125
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[22 7 0.5] [23 6 0.5] [22 3 0.5] [20 1 0.5] [16 0 0.5] [8 1 0.5] [4 4 0.5] [0 10 0.5] [0 14 0.5] [2 18 0.5] [5 19 0.5] [10 17 0.5] [14 12 0.5] [16 8 0.5] [18 5 0.5] [19 3 0.5] [21 5 0.5] [23 10 0.5] [26 15 0.5] [27 17 0.5] [28 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "578ce850-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1226.5 646.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453285739
+:isComplete true}}
+:block/updated-at 1690453308378} 
+{:block/created-at 1690453402004
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 165
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[18 8 0.5] [17 5 0.5] [17 4 0.5] [15 3 0.5] [10 3 0.5] [5 6 0.5] [1 11 0.5] [0 15 0.5] [2 18 0.5] [5 19 0.5] [8 19 0.5] [11 15 0.5] [13 10 0.5] [15 3 0.5] [17 0 0.5] [18 1 0.5] [21 5 0.5] [24 10 0.5] [27 16 0.5] [31 19 0.5] [33 19 0.5] [36 15 0.5] [37 11 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6dc5fe90-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [984 832]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453323118
+:isComplete true}}
+:block/updated-at 1690453402004} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[19 1 0.5] [19 0 0.5] [16 1 0.5] [11 6 0.5] [9 9 0.5] [10 12 0.5] [14 14 0.5] [20 16 0.5] [24 18 0.5] [28 23 0.5] [28 27 0.5] [26 32 0.5] [19 36 0.5] [13 37 0.5] [6 37 0.5] [1 35 0.5] [0 31 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "93bff020-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1179.5 117.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452957237
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453099998
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 46
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 27 0.5] [2 26 0.5] [6 26 0.5] [15 22 0.5] [20 17 0.5] [25 10 0.5] [26 5 0.5] [25 0 0.5] [21 0 0.5] [14 6 0.5] [9 15 0.5] [9 22 0.5] [13 30 0.5] [18 33 0.5] [23 33 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b67102d0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1141.5 286.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453015437
+:isComplete true}}
+:block/updated-at 1690453099998} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 0 0.5] [1 2 0.5] [3 6 0.5] [5 13 0.5] [6 22 0.5] [6 28 0.5] [5 33 0.5] [4 34 0.5] [3 34 0.5] [2 31 0.5] [2 25 0.5] [7 14 0.5] [11 10 0.5] [14 9 0.5] [19 11 0.5] [22 15 0.5] [26 22 0.5] [30 28 0.5] [32 29 0.5] [36 29 0.5] [41 24 0.5] [45 18 0.5] [48 10 0.5] [49 5 0.5] [47 2 0.5] [43 4 0.5] [38 9 0.5] [35 17 0.5] [35 22 0.5] [37 26 0.5] [41 27 0.5] [43 25 0.5] [45 20 0.5] [45 17 0.5] [45 16 0.5] [47 20 0.5] [49 27 0.5] [53 39 0.5] [55 53 0.5] [54 63 0.5] [49 74 0.5] [41 80 0.5] [32 83 0.5] [25 80 0.5] [22 75 0.5] [24 63 0.5] [31 50 0.5] [40 40 0.5] [48 33 0.5] [51 30 0.5] [55 26 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8ce04b60-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [953.5 114.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452945739
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453105127
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 51
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 5 0.5] [0 4 0.5] [3 4 0.5] [11 4 0.5] [17 4 0.5] [24 3 0.5] [28 2 0.5] [31 1 0.5] [32 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "eaca31f0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [206.5 469.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453103257
+:isComplete true}}
+:block/updated-at 1690453105127} 
+{:block/created-at 1690453262862
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 105
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 14 0.5] [3 14 0.5] [6 15 0.5] [10 13 0.5] [13 11 0.5] [15 7 0.5] [16 4 0.5] [14 1 0.5] [9 0 0.5] [5 1 0.5] [1 6 0.5] [0 12 0.5] [3 19 0.5] [11 26 0.5] [15 27 0.5] [21 25 0.5] [27 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "477eccd0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [751.5 645.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453258800
+:isComplete true}}
+:block/updated-at 1690453262862} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 130
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [1 3 0.5] [3 13 0.5] [5 22 0.5] [9 32 0.5] [11 37 0.5] [12 40 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "64be70c0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [776 904]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453307883
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690453262863
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 106
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [2 4 0.5] [4 13 0.5] [5 21 0.5] [7 32 0.5] [8 37 0.5] [8 39 0.5] [9 39 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "47af79c0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [781.5 634.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453259111
+:isComplete true}}
+:block/updated-at 1690453262863} 
+{:block/created-at 1690453013877
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 30
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 25 0.5] [1 23 0.5] [1 22 0.5] [0 20 0.5] [0 19 0.5] [0 18 0.5] [0 16 0.5] [3 12 0.5] [7 7 0.5] [15 1 0.5] [20 0 0.5] [25 1 0.5] [29 5 0.5] [29 11 0.5] [26 19 0.5] [21 27 0.5] [15 32 0.5] [12 34 0.5] [10 35 0.5] [9 35 0.5] [10 34 0.5] [13 35 0.5] [20 39 0.5] [24 44 0.5] [31 50 0.5] [35 54 0.5] [37 57 0.5] [39 59 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b1a040e0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [543.5 278.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453007372
+:isComplete true}}
+:block/updated-at 1690453013877} 
+{:block/created-at 1690453146480
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 82
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [1 1 0.5] [2 0 0.5] [3 3 0.5] [3 13 0.5] [3 25 0.5] [3 33 0.5] [4 42 0.5] [5 48 0.5] [6 50 0.5] [10 48 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "03f4e9e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [826.5 412.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453145482
+:isComplete true}}
+:block/updated-at 1690453146480} 
+{:block/created-at 1690453440962
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 185
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 31 0.5] [1 23 0.5] [1 22 0.5] [2 18 0.5] [4 13 0.5] [6 10 0.5] [9 6 0.5] [14 2 0.5] [20 0 0.5] [25 0 0.5] [30 2 0.5] [34 7 0.5] [36 11 0.5] [34 19 0.5] [28 25 0.5] [23 27 0.5] [17 29 0.5] [14 28 0.5] [10 27 0.5] [10 26 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b2238530-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [744.5 1130.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453437720
+:isComplete true}}
+:block/updated-at 1690453440962} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 202
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[18 5 0.5] [20 2 0.5] [21 0 0.5] [19 0 0.5] [17 3 0.5] [15 6 0.5] [15 9 0.5] [16 11 0.5] [20 13 0.5] [23 16 0.5] [25 20 0.5] [25 24 0.5] [23 27 0.5] [18 30 0.5] [14 30 0.5] [7 29 0.5] [2 24 0.5] [0 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5bd74d0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1167.5 1136.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453443760
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 133
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[2 25 0.5] [1 25 0.5] [1 24 0.5] [1 22 0.5] [0 21 0.5] [1 19 0.5] [2 16 0.5] [5 10 0.5] [11 4 0.5] [17 1 0.5] [21 0 0.5] [23 2 0.5] [24 9 0.5] [23 15 0.5] [17 25 0.5] [13 30 0.5] [12 31 0.5] [14 31 0.5] [18 30 0.5] [24 29 0.5] [31 30 0.5] [35 35 0.5] [34 42 0.5] [29 50 0.5] [24 55 0.5] [17 58 0.5] [13 58 0.5] [8 54 0.5] [7 49 0.5] [8 45 0.5] [9 41 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65597840-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [816 896]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453308922
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 11 0.5] [1 9 0.5] [8 7 0.5] [20 4 0.5] [31 1 0.5] [37 1 0.5] [42 0 0.5] [40 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "92d457a0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1048.5 106.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452955684
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 86
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 17 0.5] [1 17 0.5] [2 17 0.5] [5 17 0.5] [9 16 0.5] [14 14 0.5] [19 11 0.5] [21 8 0.5] [23 5 0.5] [22 2 0.5] [19 0 0.5] [15 1 0.5] [10 4 0.5] [7 10 0.5] [6 16 0.5] [7 19 0.5] [12 22 0.5] [17 24 0.5] [21 24 0.5] [24 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0da75db0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [725.5 542.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453161761
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690453100001
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 43
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[2 9 0.5] [2 8 0.5] [2 7 0.5] [2 6 0.5] [1 13 0.5] [0 25 0.5] [0 37 0.5] [0 44 0.5] [0 46 0.5] [0 48 0.5] [0 46 0.5] [0 34 0.5] [3 21 0.5] [5 15 0.5] [7 12 0.5] [9 13 0.5] [11 20 0.5] [13 28 0.5] [14 34 0.5] [15 36 0.5] [16 32 0.5] [20 19 0.5] [26 6 0.5] [31 0 0.5] [35 0 0.5] [38 6 0.5] [41 20 0.5] [42 33 0.5] [43 43 0.5] [44 50 0.5] [44 52 0.5] [44 54 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b59aee20-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1028.5 275.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453014051
+:isComplete true}}
+:block/updated-at 1690453100001} 
+{:block/created-at 1690453427488
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 177
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 14 0.5] [6 10 0.5] [8 9 0.5] [13 7 0.5] [24 4 0.5] [35 2 0.5] [42 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "aab3fc80-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [980.5 1036.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453425232
+:isComplete true}}
+:block/updated-at 1690453427488} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 145
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[6 7 0.5] [7 7 0.5] [8 8 0.5] [11 11 0.5] [13 13 0.5] [15 15 0.5] [17 15 0.5] [21 11 0.5] [23 5 0.5] [24 2 0.5] [24 0 0.5] [25 1 0.5] [26 7 0.5] [26 19 0.5] [26 35 0.5] [23 49 0.5] [19 59 0.5] [13 68 0.5] [6 74 0.5] [3 76 0.5] [0 74 0.5] [2 64 0.5] [7 51 0.5] [14 34 0.5] [18 27 0.5] [22 20 0.5] [23 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "67fa3ad0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1104 904]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453313327
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453142296
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 74
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[8 8 0.5] [8 7 0.5] [8 5 0.5] [6 5 0.5] [2 9 0.5] [0 14 0.5] [0 19 0.5] [3 23 0.5] [6 25 0.5] [8 24 0.5] [12 19 0.5] [12 13 0.5] [11 6 0.5] [8 1 0.5] [6 0 0.5] [2 3 0.5] [2 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ff87cbc0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [421.5 669.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453138062
+:isComplete true}}
+:block/updated-at 1690453142296} 
+{:block/created-at 1690453006914
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [0 6 0.5] [1 12 0.5] [3 20 0.5] [3 25 0.5] [5 30 0.5] [5 32 0.5] [4 33 0.5] [4 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b046f270-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [433.5 311.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453005089
+:isComplete true}}
+:block/updated-at 1690453006914} 
+{:block/created-at 1690453308378
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 126
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 4 0.5] [0 3 0.5] [1 5 0.5] [3 9 0.5] [3 11 0.5] [4 14 0.5] [4 15 0.5] [5 15 0.5] [5 13 0.5] [7 9 0.5] [12 3 0.5] [16 1 0.5] [21 0 0.5] [26 2 0.5] [28 4 0.5] [31 7 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "57cd73c0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1255.5 645.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453286157
+:isComplete true}}
+:block/updated-at 1690453308378} 
+{:block/created-at 1690453016387
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 42
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[25 0 0.5] [26 0 0.5] [27 6 0.5] [28 15 0.5] [30 31 0.5] [32 41 0.5] [32 45 0.5] [33 47 0.5] [32 46 0.5] [29 42 0.5] [21 35 0.5] [15 32 0.5] [8 33 0.5] [2 38 0.5] [0 43 0.5] [3 50 0.5] [9 55 0.5] [15 57 0.5] [21 56 0.5] [26 55 0.5] [29 52 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b533c7e0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [944.5 274.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453013364
+:isComplete true}}
+:block/updated-at 1690453016387} 
+{:block/created-at 1690453146480
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 78
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 3 0.5] [1 2 0.5] [1 0 0.5] [1 1 0.5] [1 7 0.5] [1 13 0.5] [1 24 0.5] [2 33 0.5] [2 39 0.5] [2 43 0.5] [2 45 0.5] [0 45 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "032c90d0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [740.5 422.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453144170
+:isComplete true}}
+:block/updated-at 1690453146480} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 153
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 5 0.5] [0 1 0.5] [1 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "699f5f50-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1272 896]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453316063
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 91
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 3 0.5] [1 3 0.5] [1 1 0.5] [1 0 0.5] [2 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0eca0bc0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [837.5 532.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453163650
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690452987798
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [3 2 0.5] [7 7 0.5] [13 12 0.5] [20 20 0.5] [27 26 0.5] [32 31 0.5] [34 33 0.5] [35 34 0.5] [36 34 0.5] [37 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8a1125d0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [612.5 133.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452940986
+:isComplete true}}
+:block/updated-at 1690452987798} 
+{:block/created-at 1690453284569
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 114
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [0 5 0.5] [0 8 0.5] [1 18 0.5] [1 26 0.5] [2 32 0.5] [2 36 0.5] [3 38 0.5] [3 39 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "54fe7540-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1023.5 631.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453281439
+:isComplete true}}
+:block/updated-at 1690453284569} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 138
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [0 1 0.5] [3 2 0.5] [9 3 0.5] [17 4 0.5] [22 4 0.5] [27 4 0.5] [30 3 0.5] [32 2 0.5] [33 2 0.5] [33 3 0.5] [34 8 0.5] [35 16 0.5] [36 21 0.5] [38 25 0.5] [39 26 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "66c60090-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [936 920]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453311296
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453142296
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 75
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[9 1 0.5] [9 0 0.5] [10 0 0.5] [11 0 0.5] [12 7 0.5] [13 14 0.5] [14 27 0.5] [15 35 0.5] [16 38 0.5] [16 40 0.5] [16 41 0.5] [16 40 0.5] [13 35 0.5] [10 31 0.5] [6 28 0.5] [3 27 0.5] [1 27 0.5] [0 32 0.5] [1 36 0.5] [4 40 0.5] [7 42 0.5] [10 42 0.5] [14 41 0.5] [18 38 0.5] [19 35 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ffc17960-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [440.5 649.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453138448
+:isComplete true}}
+:block/updated-at 1690453142296} 
+{:block/created-at 1690453664005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 210
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[0 19 0.5] [2 13 0.5] [4 9 0.5] [9 2 0.5] [15 0 0.5] [21 1 0.5] [25 6 0.5] [25 10 0.5] [20 16 0.5] [15 20 0.5] [8 22 0.5] [4 22 0.5] [5 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c0ee7250-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1663.5 399.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453462531
+:isComplete true}}
+:block/updated-at 1690453664005} 
+{:block/created-at 1690453444251
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 190
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 3 0.5] [1 4 0.5] [1 5 0.5] [2 8 0.5] [3 15 0.5] [4 20 0.5] [4 23 0.5] [4 24 0.5] [3 22 0.5] [2 17 0.5] [4 9 0.5] [7 4 0.5] [12 0 0.5] [15 1 0.5] [18 6 0.5] [20 12 0.5] [21 15 0.5] [22 18 0.5] [22 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b38251e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [911.5 1143.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453440018
+:isComplete true}}
+:block/updated-at 1690453444251} 
+{:block/created-at 1690453139691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 62
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 21 0.5] [0 20 0.5] [1 15 0.5] [2 12 0.5] [5 8 0.5] [9 3 0.5] [13 0 0.5] [17 0 0.5] [21 0 0.5] [25 3 0.5] [27 8 0.5] [26 14 0.5] [23 21 0.5] [19 25 0.5] [15 29 0.5] [11 31 0.5] [8 32 0.5] [5 31 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fc9a48c0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [145.5 664.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453133151
+:isComplete true}}
+:block/updated-at 1690453139691} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 38
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 27 0.5] [0 27 0.5] [1 28 0.5] [6 27 0.5] [21 26 0.5] [39 24 0.5] [54 23 0.5] [62 22 0.5] [65 22 0.5] [68 21 0.5] [69 22 0.5] [68 25 0.5] [64 29 0.5] [58 34 0.5] [55 36 0.5] [53 37 0.5] [62 31 0.5] [66 29 0.5] [71 26 0.5] [75 23 0.5] [77 20 0.5] [77 18 0.5] [74 15 0.5] [66 10 0.5] [57 6 0.5] [51 3 0.5] [49 2 0.5] [47 1 0.5] [48 0 0.5] [49 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b3453e50-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [728.5 282.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453010133
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453142296
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 73
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 1 0.5] [1 1 0.5] [2 0 0.5] [4 2 0.5] [5 6 0.5] [6 14 0.5] [8 23 0.5] [9 28 0.5] [10 34 0.5] [10 36 0.5] [11 37 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ff601f80-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [400.5 659.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453137796
+:isComplete true}}
+:block/updated-at 1690453142296} 
+{:block/created-at 1690453100001
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 45
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 0 0.5] [2 0 0.5] [4 3 0.5] [4 11 0.5] [4 20 0.5] [3 32 0.5] [3 38 0.5] [2 40 0.5] [1 40 0.5] [0 36 0.5] [0 27 0.5] [4 13 0.5] [8 8 0.5] [13 4 0.5] [16 5 0.5] [21 10 0.5] [24 18 0.5] [26 25 0.5] [27 30 0.5] [29 33 0.5] [29 34 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b6327330-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1105.5 292.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453015033
+:isComplete true}}
+:block/updated-at 1690453100001} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 159
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [0 2 0.5] [2 10 0.5] [4 18 0.5] [5 30 0.5] [5 36 0.5] [5 38 0.5] [6 39 0.5] [6 38 0.5] [7 34 0.5] [9 27 0.5] [11 24 0.5] [14 21 0.5] [16 22 0.5] [20 25 0.5] [23 32 0.5] [27 40 0.5] [27 41 0.5] [28 42 0.5] [32 40 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6bef69d0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [808 816]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453320032
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 0 0.5] [2 2 0.5] [7 3 0.5] [15 3 0.5] [21 2 0.5] [26 2 0.5] [30 1 0.5] [32 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "92f3ed90-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1060.5 136.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452955891
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 167
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 11 0.5] [3 7 0.5] [8 5 0.5] [15 2 0.5] [21 0 0.5] [26 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6e249950-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1016 824]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453323721
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 134
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 17 0.5] [2 17 0.5] [6 18 0.5] [13 17 0.5] [20 15 0.5] [25 12 0.5] [28 9 0.5] [27 5 0.5] [24 1 0.5] [19 0 0.5] [12 5 0.5] [7 14 0.5] [6 21 0.5] [9 28 0.5] [13 32 0.5] [19 34 0.5] [25 32 0.5] [28 28 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65b0c000-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [848 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453309481
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453397798
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 155
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[17 3 0.5] [17 1 0.5] [18 0 0.5] [17 0 0.5] [16 1 0.5] [14 5 0.5] [13 7 0.5] [14 9 0.5] [16 11 0.5] [18 12 0.5] [21 16 0.5] [22 21 0.5] [21 27 0.5] [16 32 0.5] [12 35 0.5] [7 36 0.5] [2 35 0.5] [1 33 0.5] [0 28 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "69db08c0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1296 904]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453316470
+:isComplete true}}
+:block/updated-at 1690453397798} 
+{:block/created-at 1690453142296
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 77
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[13 4 0.5] [13 3 0.5] [14 0 0.5] [13 0 0.5] [11 2 0.5] [10 7 0.5] [10 10 0.5] [13 13 0.5] [15 16 0.5] [18 19 0.5] [20 22 0.5] [20 25 0.5] [18 29 0.5] [11 34 0.5] [7 35 0.5] [3 35 0.5] [1 33 0.5] [0 28 0.5] [2 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0035bf00-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [484.5 661.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453139204
+:isComplete true}}
+:block/updated-at 1690453142296} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 199
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[5 3 0.5] [6 1 0.5] [4 3 0.5] [1 8 0.5] [0 13 0.5] [2 21 0.5] [5 23 0.5] [8 23 0.5] [12 18 0.5] [13 13 0.5] [13 5 0.5] [10 1 0.5] [8 0 0.5] [7 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b53001e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1113.5 1136.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453442829
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 160
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[13 4 0.5] [12 1 0.5] [12 0 0.5] [10 0 0.5] [5 3 0.5] [2 8 0.5] [0 13 0.5] [1 17 0.5] [2 19 0.5] [5 20 0.5] [8 18 0.5] [9 12 0.5] [10 7 0.5] [10 5 0.5] [11 4 0.5] [14 6 0.5] [17 12 0.5] [20 17 0.5] [22 19 0.5] [23 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6c2e2080-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [840 832]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453320442
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453142294
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 70
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [0 1 0.5] [1 6 0.5] [1 12 0.5] [1 22 0.5] [2 30 0.5] [2 36 0.5] [2 40 0.5] [2 41 0.5] [1 40 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fef41740-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [372.5 663.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453137088
+:isComplete true}}
+:block/updated-at 1690453142294} 
+{:block/created-at 1690453105127
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 52
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 0 0.5] [3 17 0.5] [4 19 0.5] [8 24 0.5] [11 24 0.5] [14 22 0.5] [17 16 0.5] [18 12 0.5] [19 8 0.5] [19 6 0.5] [20 8 0.5] [21 13 0.5] [23 19 0.5] [25 23 0.5] [28 26 0.5] [29 27 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "eaef9440-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [240.5 466.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453103509
+:isComplete true}}
+:block/updated-at 1690453105127} 
+{:block/created-at 1690453016387
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 41
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 7 0.5] [1 6 0.5] [3 12 0.5] [4 19 0.5] [5 27 0.5] [5 32 0.5] [4 35 0.5] [3 35 0.5] [1 31 0.5] [3 21 0.5] [7 9 0.5] [12 3 0.5] [17 0 0.5] [22 4 0.5] [26 14 0.5] [29 24 0.5] [31 30 0.5] [32 34 0.5] [33 34 0.5] [35 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b4f6bee0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [919.5 296.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453012963
+:isComplete true}}
+:block/updated-at 1690453016387} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 198
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 11 0.5] [4 5 0.5] [5 4 0.5] [10 1 0.5] [16 0 0.5] [22 1 0.5] [25 4 0.5] [25 7 0.5] [21 13 0.5] [15 18 0.5] [11 21 0.5] [7 23 0.5] [7 24 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b5054860-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1078.5 1136.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453442548
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 168
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 26 0.5] [2 27 0.5] [3 27 0.5] [4 27 0.5] [8 26 0.5] [14 22 0.5] [19 17 0.5] [21 11 0.5] [20 7 0.5] [17 5 0.5] [12 5 0.5] [6 11 0.5] [3 18 0.5] [4 28 0.5] [8 32 0.5] [14 33 0.5] [21 30 0.5] [26 26 0.5] [33 13 0.5] [36 7 0.5] [37 2 0.5] [37 0 0.5] [35 1 0.5] [32 3 0.5] [31 6 0.5] [31 10 0.5] [35 13 0.5] [38 14 0.5] [43 17 0.5] [45 20 0.5] [46 24 0.5] [43 30 0.5] [39 33 0.5] [34 35 0.5] [30 34 0.5] [27 32 0.5] [25 25 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6e414910-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1056 816]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453323940
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 29
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 2 0.5] [0 1 0.5] [0 0 0.5] [1 4 0.5] [4 17 0.5] [6 25 0.5] [7 34 0.5] [7 39 0.5] [6 41 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b17e39f0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [546.5 292.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453007129
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 144
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 8 0.5] [1 7 0.5] [2 8 0.5] [5 12 0.5] [7 18 0.5] [9 23 0.5] [10 25 0.5] [10 26 0.5] [10 24 0.5] [11 19 0.5] [15 8 0.5] [18 3 0.5] [21 0 0.5] [25 1 0.5] [27 5 0.5] [28 8 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "67c79210-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1072 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453312984
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [4 5 0.5] [5 10 0.5] [6 18 0.5] [8 25 0.5] [9 29 0.5] [9 30 0.5] [9 31 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8b154f60-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [780.5 131.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452942689
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453010815
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 28
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 2 0.5] [2 7 0.5] [4 15 0.5] [8 20 0.5] [11 22 0.5] [16 21 0.5] [19 16 0.5] [20 9 0.5] [20 6 0.5] [20 4 0.5] [20 7 0.5] [21 17 0.5] [24 31 0.5] [27 45 0.5] [27 53 0.5] [25 61 0.5] [20 66 0.5] [15 65 0.5] [11 56 0.5] [11 44 0.5] [15 28 0.5] [20 17 0.5] [24 12 0.5] [29 8 0.5] [31 7 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b0fcade0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [484.5 304.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453006297
+:isComplete true}}
+:block/updated-at 1690453010815} 
+{:block/created-at 1690453283704
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 109
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[25 4 0.5] [25 5 0.5] [26 5 0.5] [27 5 0.5] [28 4 0.5] [28 3 0.5] [27 2 0.5] [24 0 0.5] [19 0 0.5] [13 2 0.5] [8 4 0.5] [2 10 0.5] [0 15 0.5] [0 23 0.5] [2 27 0.5] [4 29 0.5] [7 30 0.5] [11 27 0.5] [16 21 0.5] [19 14 0.5] [20 10 0.5] [21 7 0.5] [21 6 0.5] [22 6 0.5] [25 11 0.5] [27 14 0.5] [29 18 0.5] [31 21 0.5] [32 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4f8b58d0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [855.5 646.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453272315
+:isComplete true}}
+:block/updated-at 1690453283704} 
+{:block/created-at 1690453167859
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 96
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 2 0.5] [2 5 0.5] [2 9 0.5] [1 13 0.5] [1 15 0.5] [1 16 0.5] [0 16 0.5] [0 11 0.5] [4 5 0.5] [7 2 0.5] [12 0 0.5] [16 1 0.5] [19 5 0.5] [21 9 0.5] [22 10 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0f959920-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [908.5 539.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453164995
+:isComplete true}}
+:block/updated-at 1690453167859} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 197
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [2 2 0.5] [2 3 0.5] [2 7 0.5] [3 14 0.5] [5 25 0.5] [6 32 0.5] [7 40 0.5] [7 42 0.5] [7 43 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b4e16cb0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1078.5 1140.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453442310
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453165955
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 89
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 15 0.5] [1 15 0.5] [2 16 0.5] [2 20 0.5] [3 25 0.5] [3 30 0.5] [3 34 0.5] [3 36 0.5] [2 36 0.5] [1 33 0.5] [0 27 0.5] [1 17 0.5] [4 10 0.5] [7 4 0.5] [12 1 0.5] [14 0 0.5] [15 1 0.5] [16 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e646c20-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [810.5 525.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453162997
+:isComplete true}}
+:block/updated-at 1690453165955} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 162
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[10 4 0.5] [10 2 0.5] [10 0 0.5] [7 1 0.5] [4 5 0.5] [0 12 0.5] [0 17 0.5] [0 18 0.5] [3 19 0.5] [4 16 0.5] [6 11 0.5] [7 8 0.5] [8 8 0.5] [9 11 0.5] [12 21 0.5] [14 34 0.5] [15 44 0.5] [14 50 0.5] [11 56 0.5] [8 57 0.5] [4 56 0.5] [1 48 0.5] [2 40 0.5] [7 28 0.5] [11 21 0.5] [13 17 0.5] [15 15 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6c9e9590-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [904 824]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453321186
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 132
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[3 0 0.5] [2 0 0.5] [1 1 0.5] [0 10 0.5] [1 21 0.5] [2 29 0.5] [4 37 0.5] [5 41 0.5] [5 43 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65379860-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [824 904]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453308678
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[19 2 0.5] [20 1 0.5] [20 0 0.5] [19 2 0.5] [16 8 0.5] [11 15 0.5] [7 21 0.5] [5 24 0.5] [3 28 0.5] [2 29 0.5] [0 30 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "89e90460-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [618.5 110.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452940722
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 150
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 6 0.5] [2 5 0.5] [11 3 0.5] [18 2 0.5] [25 0 0.5] [29 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "69296c00-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1208 920]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453315293
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453444251
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 189
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 17 0.5] [2 17 0.5] [3 17 0.5] [4 17 0.5] [8 15 0.5] [11 12 0.5] [13 5 0.5] [13 1 0.5] [11 0 0.5] [8 2 0.5] [6 6 0.5] [6 16 0.5] [9 22 0.5] [12 24 0.5] [15 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b358d0e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [888.5 1143.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453439742
+:isComplete true}}
+:block/updated-at 1690453444251} 
+{:block/created-at 1690453146478
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 83
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 7 0.5] [1 6 0.5] [5 5 0.5] [14 2 0.5] [26 0 0.5] [30 0 0.5] [33 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "041ce440-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [825.5 431.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453145740
+:isComplete true}}
+:block/updated-at 1690453146478} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 139
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 5 0.5] [1 4 0.5] [1 3 0.5] [1 2 0.5] [2 1 0.5] [3 1 0.5] [4 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "66f91e80-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [976 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453311622
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 1 0.5] [1 1 0.5] [2 1 0.5] [2 0 0.5] [2 2 0.5] [2 7 0.5] [2 18 0.5] [3 28 0.5] [4 43 0.5] [4 52 0.5] [4 57 0.5] [5 62 0.5] [5 65 0.5] [5 66 0.5] [6 65 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8991bca0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [611.5 109.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452940154
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 6 0.5] [0 3 0.5] [0 2 0.5] [1 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8cbcbdd0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [941.5 103.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452945459
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453444246
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 187
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[4 0 0.5] [2 4 0.5] [1 6 0.5] [1 8 0.5] [2 15 0.5] [5 23 0.5] [10 27 0.5] [13 27 0.5] [16 22 0.5] [17 17 0.5] [17 11 0.5] [17 9 0.5] [16 12 0.5] [15 22 0.5] [14 32 0.5] [13 43 0.5] [11 52 0.5] [7 56 0.5] [3 57 0.5] [0 52 0.5] [0 44 0.5] [4 31 0.5] [9 24 0.5] [15 18 0.5] [20 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b2bf9e20-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [820.5 1138.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453438748
+:isComplete true}}
+:block/updated-at 1690453444246} 
+{:block/created-at 1690453139691
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 65
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 1 0.5] [1 1 0.5] [2 2 0.5] [5 7 0.5] [6 13 0.5] [7 18 0.5] [7 22 0.5] [7 24 0.5] [6 25 0.5] [5 23 0.5] [5 19 0.5] [6 12 0.5] [8 8 0.5] [9 6 0.5] [11 6 0.5] [13 8 0.5] [15 12 0.5] [16 14 0.5] [16 16 0.5] [16 17 0.5] [16 16 0.5] [16 13 0.5] [18 7 0.5] [21 2 0.5] [23 0 0.5] [26 0 0.5] [29 3 0.5] [31 9 0.5] [32 15 0.5] [33 19 0.5] [33 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fd7d7cd0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [227.5 675.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453134653
+:isComplete true}}
+:block/updated-at 1690453139691} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 128
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[21 11 0.5] [22 11 0.5] [23 11 0.5] [24 10 0.5] [26 10 0.5] [28 9 0.5] [29 6 0.5] [28 3 0.5] [26 1 0.5] [21 0 0.5] [15 1 0.5] [5 10 0.5] [0 19 0.5] [0 25 0.5] [2 32 0.5] [5 34 0.5] [10 34 0.5] [17 28 0.5] [20 22 0.5] [22 15 0.5] [23 9 0.5] [23 7 0.5] [23 6 0.5] [24 11 0.5] [28 22 0.5] [31 38 0.5] [32 49 0.5] [31 60 0.5] [28 67 0.5] [22 74 0.5] [16 73 0.5] [11 68 0.5] [8 56 0.5] [10 43 0.5] [13 35 0.5] [20 28 0.5] [24 25 0.5] [29 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "641ba110-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [704 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453306846
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[1 9 0.5] [0 8 0.5] [3 6 0.5] [8 4 0.5] [14 3 0.5] [20 2 0.5] [24 1 0.5] [27 1 0.5] [29 1 0.5] [32 0 0.5] [33 0 0.5] [35 4 0.5] [36 9 0.5] [37 13 0.5] [38 18 0.5] [38 21 0.5] [38 23 0.5] [39 24 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8c768d10-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [906.5 123.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452945013
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453105127
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 50
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 2 0.5] [0 0 0.5] [1 0 0.5] [3 4 0.5] [5 14 0.5] [6 23 0.5] [8 34 0.5] [9 43 0.5] [10 49 0.5] [9 54 0.5] [9 56 0.5] [7 58 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "eaa12620-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [220.5 440.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453102991
+:isComplete true}}
+:block/updated-at 1690453105127} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 154
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [2 2 0.5] [4 10 0.5] [6 19 0.5] [7 35 0.5] [9 45 0.5] [10 50 0.5] [10 52 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "69bad690-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1280 888]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453316250
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690453006914
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 6 0.5] [1 4 0.5] [0 3 0.5] [0 1 0.5] [0 0 0.5] [1 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b06e9eb0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [432.5 299.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453005346
+:isComplete true}}
+:block/updated-at 1690453006914} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 135
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [1 0 0.5] [2 0 0.5] [3 1 0.5] [5 5 0.5] [7 13 0.5] [7 18 0.5] [7 24 0.5] [5 27 0.5] [4 27 0.5] [2 24 0.5] [2 19 0.5] [6 8 0.5] [11 3 0.5] [13 3 0.5] [18 6 0.5] [20 12 0.5] [23 20 0.5] [25 27 0.5] [26 29 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65e898e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [880 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453309849
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453142296
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 72
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[13 0 0.5] [13 1 0.5] [10 7 0.5] [5 14 0.5] [2 18 0.5] [0 22 0.5] [1 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ff4348b0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [389.5 661.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453137603
+:isComplete true}}
+:block/updated-at 1690453142296} 
+{:block/created-at 1690453164585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 84
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 17 0.5] [0 17 0.5] [1 17 0.5] [18 14 0.5] [49 9 0.5] [75 6 0.5] [110 3 0.5] [138 1 0.5] [156 0 0.5] [165 0 0.5] [169 0 0.5] [172 0 0.5] [173 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "04529a40-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [706.5 473.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453146098
+:isComplete true}}
+:block/updated-at 1690453164585} 
+{:block/created-at 1690453424140
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 169
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[23 6 0.5] [24 6 0.5] [24 7 0.5] [25 7 0.5] [26 7 0.5] [26 6 0.5] [26 5 0.5] [25 3 0.5] [24 2 0.5] [21 0 0.5] [18 0 0.5] [13 1 0.5] [7 5 0.5] [3 8 0.5] [0 12 0.5] [0 14 0.5] [2 15 0.5] [7 16 0.5] [11 16 0.5] [17 17 0.5] [23 22 0.5] [28 29 0.5] [29 36 0.5] [29 40 0.5] [26 44 0.5] [22 47 0.5] [17 47 0.5] [9 44 0.5] [5 41 0.5] [3 38 0.5] [3 34 0.5] [5 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a84f7fa0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [740.5 1029.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453421243
+:isComplete true}}
+:block/updated-at 1690453424140} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 149
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [0 1 0.5] [0 3 0.5] [0 11 0.5] [0 22 0.5] [2 33 0.5] [3 41 0.5] [3 44 0.5] [2 47 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "69076510-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1224 896]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453315074
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690452987797
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [1 2 0.5] [2 8 0.5] [3 19 0.5] [4 28 0.5] [6 42 0.5] [7 48 0.5] [9 52 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8bef34a0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [877.5 108.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452944117
+:isComplete true}}
+:block/updated-at 1690452987797} 
+{:block/created-at 1690453464385
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 205
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[3 0 0.5] [4 4 0.5] [4 6 0.5] [4 14 0.5] [3 29 0.5] [2 36 0.5] [2 44 0.5] [1 46 0.5] [1 47 0.5] [0 46 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c0d14d60-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1663.5 402.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453462337
+:isComplete true}}
+:block/updated-at 1690453464385} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 129
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 19 0.5] [1 19 0.5] [4 18 0.5] [7 17 0.5] [12 14 0.5] [17 9 0.5] [19 5 0.5] [18 1 0.5] [17 0 0.5] [12 0 0.5] [7 5 0.5] [5 13 0.5] [7 21 0.5] [13 27 0.5] [18 29 0.5] [25 28 0.5] [30 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "648d0080-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [744 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453307568
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 151
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[18 1 0.5] [17 0 0.5] [14 0 0.5] [10 2 0.5] [4 8 0.5] [0 15 0.5] [0 20 0.5] [1 24 0.5] [2 25 0.5] [6 23 0.5] [9 17 0.5] [11 13 0.5] [13 9 0.5] [14 8 0.5] [16 9 0.5] [18 13 0.5] [19 17 0.5] [20 20 0.5] [21 21 0.5] [23 20 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "69481790-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1248 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453315508
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453456350
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 196
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 5 0.5] [1 6 0.5] [2 12 0.5] [2 18 0.5] [1 21 0.5] [1 23 0.5] [0 22 0.5] [1 14 0.5] [3 9 0.5] [6 4 0.5] [9 3 0.5] [13 2 0.5] [17 3 0.5] [19 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b4ab1a70-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1048.5 1140.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453441959
+:isComplete true}}
+:block/updated-at 1690453456350} 
+{:block/created-at 1690453308378
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 122
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[15 4 0.5] [16 4 0.5] [17 3 0.5] [16 1 0.5] [14 0 0.5] [9 2 0.5] [5 5 0.5] [0 11 0.5] [0 16 0.5] [4 21 0.5] [10 23 0.5] [14 23 0.5] [19 21 0.5] [22 18 0.5] [24 14 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "57241460-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1178.5 646.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453285046
+:isComplete true}}
+:block/updated-at 1690453308378} 
+{:block/created-at 1690453139690
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 69
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 5 0.5] [1 5 0.5] [6 4 0.5] [12 3 0.5] [17 2 0.5] [23 1 0.5] [27 1 0.5] [30 0 0.5] [31 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fe701a30-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [305.5 672.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453136221
+:isComplete true}}
+:block/updated-at 1690453139690} 
+{:block/created-at 1690453464384
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 204
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[0 21 0.5] [1 20 0.5] [2 20 0.5] [6 18 0.5] [11 14 0.5] [14 10 0.5] [16 5 0.5] [16 1 0.5] [12 0 0.5] [7 2 0.5] [3 6 0.5] [0 12 0.5] [2 18 0.5] [6 22 0.5] [12 24 0.5] [16 23 0.5] [21 17 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c09d6c20-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1636.5 405.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453462004
+:isComplete true}}
+:block/updated-at 1690453464384} 
+{:block/created-at 1690453438214
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 178
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[5 0 0.5] [4 1 0.5] [3 6 0.5] [1 17 0.5] [0 29 0.5] [0 35 0.5] [1 41 0.5] [0 43 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "aaf942e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1033.5 1026.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453425687
+:isComplete true}}
+:block/updated-at 1690453438214} 
+{:block/created-at 1690453284569
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 116
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 15 0.5] [1 16 0.5] [5 15 0.5] [8 15 0.5] [14 13 0.5] [18 10 0.5] [20 7 0.5] [21 3 0.5] [20 1 0.5] [17 0 0.5] [12 2 0.5] [8 7 0.5] [5 14 0.5] [5 21 0.5] [9 26 0.5] [14 28 0.5] [17 28 0.5] [23 25 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "558e8040-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1051.5 639.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453282391
+:isComplete true}}
+:block/updated-at 1690453284569} 
+{:block/created-at 1690452987796
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "yellow"
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill "yellow"
+:type "pencil"
+:points [[0 1 0.5] [0 0 0.5] [0 1 0.5] [0 8 0.5] [0 16 0.5] [1 30 0.5] [1 42 0.5] [1 53 0.5] [1 59 0.5] [0 62 0.5] [0 63 0.5] [0 61 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "92a6df00-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1058.5 105.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690452955391
+:isComplete true}}
+:block/updated-at 1690452987796} 
+{:block/created-at 1690453131076
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 54
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[4 21 0.5] [2 21 0.5] [0 21 0.5] [2 20 0.5] [17 15 0.5] [55 7 0.5] [83 3 0.5] [121 0 0.5] [148 1 0.5] [162 2 0.5] [173 4 0.5] [177 5 0.5] [178 5 0.5] [178 6 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "eba99570-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [141.5 513.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453104726
+:isComplete true}}
+:block/updated-at 1690453131076} 
+{:block/created-at 1690453136552
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 57
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[15 9 0.5] [16 8 0.5] [16 6 0.5] [15 4 0.5] [14 1 0.5] [12 0 0.5] [7 3 0.5] [3 7 0.5] [0 14 0.5] [0 20 0.5] [2 24 0.5] [4 26 0.5] [9 24 0.5] [11 20 0.5] [12 14 0.5] [12 12 0.5] [12 10 0.5] [12 11 0.5] [14 18 0.5] [17 28 0.5] [20 37 0.5] [20 43 0.5] [19 50 0.5] [17 54 0.5] [14 55 0.5] [10 53 0.5] [9 48 0.5] [9 39 0.5] [12 29 0.5] [15 23 0.5] [18 18 0.5] [21 15 0.5] [23 13 0.5] [23 12 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fa6edd40-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [210.5 590.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453129527
+:isComplete true}}
+:block/updated-at 1690453136552} 
+{:block/created-at 1690453010815
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 26
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 4 0.5] [3 13 0.5] [5 24 0.5] [7 34 0.5] [8 42 0.5] [9 46 0.5] [9 49 0.5] [9 50 0.5] [8 51 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b0b56bb0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [459.5 288.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453005814
+:isComplete true}}
+:block/updated-at 1690453010815} 
+{:block/created-at 1690453438214
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 182
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [2 7 0.5] [2 13 0.5] [3 19 0.5] [3 22 0.5] [3 23 0.5] [3 20 0.5] [4 14 0.5] [8 6 0.5] [11 2 0.5] [15 0 0.5] [20 5 0.5] [22 10 0.5] [25 16 0.5] [26 19 0.5] [29 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ab857d50-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1095.5 1042.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453426615
+:isComplete true}}
+:block/updated-at 1690453438214} 
+{:block/created-at 1690453397799
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 147
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 9 0.5] [2 5 0.5] [3 4 0.5] [5 2 0.5] [13 0 0.5] [21 4 0.5] [25 10 0.5] [26 19 0.5] [22 28 0.5] [15 35 0.5] [9 39 0.5] [5 41 0.5] [3 40 0.5] [5 36 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "689fc9a0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1144 904]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453314399
+:isComplete true}}
+:block/updated-at 1690453397799} 
+{:block/created-at 1690453136552
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 55
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[1 4 0.5] [0 3 0.5] [0 2 0.5] [0 1 0.5] [0 0 0.5] [0 1 0.5] [1 4 0.5] [3 13 0.5] [4 23 0.5] [5 32 0.5] [6 38 0.5] [7 44 0.5] [7 47 0.5] [8 49 0.5] [7 51 0.5] [7 52 0.5] [9 51 0.5] [13 50 0.5] [17 49 0.5] [22 48 0.5] [25 47 0.5] [27 47 0.5] [29 46 0.5] [30 45 0.5] [30 44 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f9c57de0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [153.5 574.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453128408
+:isComplete true}}
+:block/updated-at 1690453136552} 
+{:block/created-at 1690453660241
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 206
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[14 1 0.5] [7 6 0.5] [6 8 0.5] [4 10 0.5] [0 17 0.5] [0 21 0.5] [5 24 0.5] [13 23 0.5] [19 18 0.5] [21 10 0.5] [20 5 0.5] [17 1 0.5] [14 0 0.5] [11 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c119ef20-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1695.5 401.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453462818
+:isComplete true}}
+:block/updated-at 1690453660241} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 195
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 2 0.5] [1 7 0.5] [1 8 0.5] [2 10 0.5] [5 13 0.5] [8 13 0.5] [11 12 0.5] [14 7 0.5] [15 4 0.5] [15 1 0.5] [15 0 0.5] [14 2 0.5] [15 9 0.5] [18 14 0.5] [21 18 0.5] [24 18 0.5] [25 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b475d9a0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1016.5 1143.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453441612
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453142296
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 71
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 2 0.5] [1 1 0.5] [2 0 0.5] [5 2 0.5] [10 7 0.5] [15 13 0.5] [17 17 0.5] [20 21 0.5] [21 22 0.5] [22 23 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ff1e0d70-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [371.5 667.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453137362
+:isComplete true}}
+:block/updated-at 1690453142296} 
+{:block/created-at 1690453425515
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 172
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 9 0.5] [2 13 0.5] [2 14 0.5] [2 16 0.5] [3 20 0.5] [3 23 0.5] [3 26 0.5] [2 25 0.5] [2 20 0.5] [5 12 0.5] [10 6 0.5] [15 1 0.5] [19 0 0.5] [23 2 0.5] [25 5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a9426b20-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [842.5 1042.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453422818
+:isComplete true}}
+:block/updated-at 1690453425515} 
+{:block/created-at 1690453287171
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 119
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 33 0.5] [2 39 0.5] [2 40 0.5] [3 44 0.5] [4 47 0.5] [5 52 0.5] [5 54 0.5] [6 54 0.5] [5 51 0.5] [5 44 0.5] [7 27 0.5] [10 17 0.5] [14 7 0.5] [17 2 0.5] [20 0 0.5] [23 1 0.5] [26 4 0.5] [27 6 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "566160a0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1137.5 615.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453283773
+:isComplete true}}
+:block/updated-at 1690453287171} 
+{:block/created-at 1690453438214
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 181
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[4 1 0.5] [2 4 0.5] [1 7 0.5] [0 13 0.5] [3 18 0.5] [6 20 0.5] [12 20 0.5] [19 16 0.5] [24 9 0.5] [27 3 0.5] [27 0 0.5] [28 0 0.5] [28 2 0.5] [29 8 0.5] [30 13 0.5] [32 15 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ab54d060-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1058.5 1042.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453426295
+:isComplete true}}
+:block/updated-at 1690453438214} 
+{:block/created-at 1690453425515
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 173
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[5 7 0.5] [8 2 0.5] [9 0 0.5] [8 0 0.5] [4 3 0.5] [1 7 0.5] [0 13 0.5] [2 18 0.5] [6 20 0.5] [13 21 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a9764c60-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [880.5 1039.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453423153
+:isComplete true}}
+:block/updated-at 1690453425515} 
+{:block/created-at 1690453013878
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 37
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 8 0.5] [1 7 0.5] [6 5 0.5] [18 3 0.5] [31 1 0.5] [40 1 0.5] [45 0 0.5] [48 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b31ad2f0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [661.5 301.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453009832
+:isComplete true}}
+:block/updated-at 1690453013878} 
+{:block/created-at 1690453456352
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 194
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 21 0.5] [6 8 0.5] [7 7 0.5] [13 2 0.5] [17 0 0.5] [22 0 0.5] [25 3 0.5] [26 6 0.5] [22 12 0.5] [15 18 0.5] [9 21 0.5] [4 24 0.5] [2 25 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b44505a0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [997.5 1118.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453441288
+:isComplete true}}
+:block/updated-at 1690453456352} 
+{:block/created-at 1690453660241
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "purple"
+:index 208
+:scale [1 1]
+:scaleLevel "md"
+:fill "purple"
+:type "pencil"
+:points [[3 0 0.5] [3 1 0.5] [3 5 0.5] [1 12 0.5] [0 26 0.5] [0 32 0.5] [2 37 0.5] [3 38 0.5] [4 36 0.5] [4 31 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c17a3790-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1763.5 382.29999999999995]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453463445
+:isComplete true}}
+:block/updated-at 1690453660241} 
+{:block/created-at 1690453397800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 136
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 21 0.5] [2 21 0.5] [6 20 0.5] [13 17 0.5] [17 15 0.5] [21 10 0.5] [22 4 0.5] [21 2 0.5] [17 0 0.5] [8 6 0.5] [5 12 0.5] [4 19 0.5] [6 24 0.5] [11 28 0.5] [15 30 0.5] [18 29 0.5] [20 27 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "66274f90-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [920 912]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453310257
+:isComplete true}}
+:block/updated-at 1690453397800} 
+{:block/created-at 1690453402005
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 163
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[1 8 0.5] [4 8 0.5] [9 7 0.5] [12 6 0.5] [15 4 0.5] [15 2 0.5] [13 0 0.5] [8 0 0.5] [5 1 0.5] [1 6 0.5] [0 12 0.5] [4 18 0.5] [10 22 0.5] [14 23 0.5] [19 22 0.5] [23 20 0.5] [26 17 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6d1c9f30-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [920 832]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453322002
+:isComplete true}}
+:block/updated-at 1690453402005} 
+{:block/created-at 1690453105127
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 53
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[7 3 0.5] [9 6 0.5] [10 12 0.5] [11 24 0.5] [11 36 0.5] [12 44 0.5] [12 50 0.5] [12 52 0.5] [11 53 0.5] [8 48 0.5] [6 39 0.5] [6 23 0.5] [8 11 0.5] [13 4 0.5] [18 0 0.5] [22 0 0.5] [28 3 0.5] [30 8 0.5] [29 13 0.5] [20 22 0.5] [14 26 0.5] [6 29 0.5] [2 28 0.5] [0 27 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "eb2b8bd0-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [269.5 461.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453103910
+:isComplete true}}
+:block/updated-at 1690453105127} 
+{:block/created-at 1690453438214
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "red"
+:index 179
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "pencil"
+:points [[0 11.000000000000114 0.5] [16 3 0.5] [19 2 0.5] [23 2 0.5] [36 0 0.5] [43 0 0.5] [48 0 0.5] [47 1 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ab1b70e0-2c67-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [1023.5 1019.9]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453425911
+:isComplete true}}
+:block/updated-at 1690453438214} 
+{:block/created-at 1690453139690
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 66
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "pencil"
+:points [[0 15 0.5] [0 14 0.5] [2 14 0.5] [5 14 0.5] [10 12 0.5] [12 10 0.5] [14 6 0.5] [15 2 0.5] [14 1 0.5] [11 0 0.5] [7 4 0.5] [5 8 0.5] [5 14 0.5] [7 19 0.5] [10 22 0.5] [12 23 0.5] [14 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fdd84700-2c66-11ee-9d15-ef5d46458b5d"
+:noFill true
+:point [262.5 672.5]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690453135234
+:isComplete true}}
+:block/updated-at 1690453139690} 
+{:block/created-at 1690972404280
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 212
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 10.442739490209192 0.5] [8.122130714607124 10.442739490209192 0.5] [47.572479899841596 9.282435102408158 0.5] [85.86252469727503 6.96182632680609 0.5] [138.07622214832065 6.96182632680609 0.5] [186.80900643596328 6.96182632680609 0.5] [232.0608775602027 6.96182632680609 0.5] [290.0760969502535 6.96182632680609 0.5] [352.7325338915082 4.641217551204136 0.5] [415.3889708327629 2.320608775602068 0.5] [461.80114634480356 0 0.5] [472.24388583501263 0 0.5] [473.40419022281367 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ff66abd0-311f-11ee-a12e-11b67b800815"
+:noFill true
+:point [851.1795164224652 359.1816666992703]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972399387
+:isComplete true}}
+:block/updated-at 1690972404280} 
+{:block/created-at 1690972405458
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 213
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [10.442739490209107 0 0.5] [34.80913163403039 1.160304387801034 0.5] [62.6564369412547 1.160304387801034 0.5] [99.78617735088716 3.480913163403102 0.5] [134.59530898491755 1.160304387801034 0.5] [164.76322306774392 0 0.5] [176.36626694575403 0 0.5] [178.68687572135605 0 0.5] [182.1677888847591 0 0.5] [186.80900643596317 0 0.5] [190.28991959936621 0 0.5] [191.4502239871672 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "01db2e40-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [134.11140476143896 647.4012766290421]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972403506
+:isComplete true}}
+:block/updated-at 1690972405458} 
+{:block/created-at 1690972408919
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 214
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 11.603043878010112 0.5] [1.1603043878010055 11.603043878010112 0.5] [5.8015219390050845 10.442739490209078 0.5] [23.20608775602028 9.282435102408044 0.5] [59.17552377785168 9.282435102408044 0.5] [113.70983000449931 9.282435102408044 0.5] [151.99987480193275 9.282435102408044 0.5] [186.80900643596314 6.96182632680609 0.5] [218.1372249065905 5.801521939005056 0.5] [245.98453021381485 3.480913163402988 0.5] [273.8318355210391 0 0.5] [286.59518378685027 0 0.5] [291.2364013380544 0 0.5] [294.7173145014574 0 0.5] [298.1982276648605 0 0.5] [302.8394452160645 0 0.5] [314.44248909407463 2.320608775601954 0.5] [326.04553297208474 3.480913163402988 0.5] [335.3279680744929 4.641217551204022 0.5] [342.289794401299 4.641217551204022 0.5] [345.770707564702 4.641217551204022 0.5] [346.931011952503 4.641217551204022 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "02904d70-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [157.31749251745921 734.4241057141181]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972404702
+:isComplete true}}
+:block/updated-at 1690972408919} 
+{:block/created-at 1690972411523
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 215
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 6.96182632680609 0.5] [1.160304387801034 6.96182632680609 0.5] [11.603043878010112 6.96182632680609 0.5] [29.007609695025394 5.80152193900517 0.5] [45.25187112423953 3.480913163403102 0.5] [70.77856765586182 2.320608775602068 0.5] [131.11439582151456 2.320608775602068 0.5] [156.64109235313686 2.320608775602068 0.5] [206.5341810285804 2.320608775602068 0.5] [257.587574091825 2.320608775602068 0.5] [310.96157593067164 2.320608775602068 0.5] [355.05314266711025 2.320608775602068 0.5] [380.57983919873254 2.320608775602068 0.5] [393.3431874645437 1.160304387801034 0.5] [401.4653181791507 0 0.5] [406.10653573035484 0 0.5] [407.26684011815587 0 0.5] [408.4271445059569 0 0.5] [409.58744889375794 0 0.5] [411.9080576693598 0 0.5] [413.0683620571608 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "047a4320-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [698.0193372327315 594.0272747901954]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972407912
+:isComplete true}}
+:block/updated-at 1690972411523} 
+{:block/created-at 1690972413884
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 216
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 15.0839570414131 0.5] [2.320608775602068 13.923652653612066 0.5] [12.763348265811146 12.763348265811146 0.5] [33.648827246229416 10.442739490209078 0.5] [59.17552377785171 9.282435102408044 0.5] [83.54191592167297 6.961826326805976 0.5] [105.58769928989227 6.961826326805976 0.5] [127.63348265811146 6.961826326805976 0.5] [165.9235274555449 6.961826326805976 0.5] [215.81661613098856 6.961826326805976 0.5] [278.47305307224326 4.641217551204022 0.5] [329.52644613548796 4.641217551204022 0.5] [410.74775328155897 2.320608775601954 0.5] [466.44236389600746 0 0.5] [510.5339306324461 0 0.5] [525.6178876738593 0 0.5] [539.5415403274715 0 0.5] [545.3430622664764 0 0.5] [554.6254973688845 0 0.5] [565.0682368590938 0 0.5] [589.434629002915 0 0.5] [599.8773684931241 0 0.5] [605.678890432129 0 0.5] [606.8391948199301 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0624bed0-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [709.6223811107416 691.4928433654807]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972410711
+:isComplete true}}
+:block/updated-at 1690972413884} 
+{:block/created-at 1690972414914
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 217
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 5.801521939005056 0.5] [3.480913163403102 5.801521939005056 0.5] [26.687000919423326 5.801521939005056 0.5] [67.29765449245883 5.801521939005056 0.5] [125.3128738825095 3.480913163403102 0.5] [181.0074844969581 3.480913163403102 0.5] [257.587574091825 3.480913163403102 0.5] [322.56461980868175 3.480913163403102 0.5] [387.5416655255385 3.480913163403102 0.5] [430.4729278741761 1.160304387801034 0.5] [446.71718930339034 1.160304387801034 0.5] [450.19810246679344 0 0.5] [451.35840685459425 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "07b7bae0-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [709.6223811107416 872.7323887399989]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972413340
+:isComplete true}}
+:block/updated-at 1690972414914} 
+{:block/created-at 1690972416044
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 218
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 16.244261429214134 0.5] [1.160304387801034 16.244261429214134 0.5] [10.442739490209192 16.244261429214134 0.5] [46.41217551204056 13.92365265361218 0.5] [122.99226510690744 9.282435102408044 0.5] [222.77844245779465 9.282435102408044 0.5] [315.6027934818758 9.282435102408044 0.5] [396.8241006279468 9.282435102408044 0.5] [457.1599287935994 9.282435102408044 0.5] [498.93088675443596 4.641217551204022 0.5] [519.8163657348541 2.320608775601954 0.5] [524.4575832860583 0 0.5] [525.6178876738593 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "085de5f0-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [735.1490776423639 979.4803924176922]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972414429
+:isComplete true}}
+:block/updated-at 1690972416044} 
+{:block/created-at 1690972417149
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 219
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 9.282435102408044 0.5] [6.96182632680609 9.282435102408044 0.5] [31.32821847062735 8.12213071460701 0.5] [55.69461061444861 8.12213071460701 0.5] [100.94648173868814 8.12213071460701 0.5] [145.03804847512663 8.12213071460701 0.5] [196.0914415383712 5.801521939004942 0.5] [241.34331266261074 3.480913163403102 0.5] [276.1524442966412 0 0.5] [299.3585320526614 0 0.5] [301.6791408282635 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "090f82b0-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [756.0345566227821 1092.0299180343904]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972415591
+:isComplete true}}
+:block/updated-at 1690972417149} 
+{:block/created-at 1690972420750
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 220
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 18.56487020481609 0.5] [1.160304387801034 18.56487020481609 0.5] [2.320608775602068 18.56487020481609 0.5] [3.480913163403102 18.56487020481609 0.5] [25.526696531622292 19.725174592617122 0.5] [75.41978520706584 19.725174592617122 0.5] [135.75561337271859 17.404565817015055 0.5] [210.0150941919834 12.763348265811146 0.5] [262.228791643029 5.801521939004942 0.5] [288.91579256245257 4.641217551203908 0.5] [310.96157593067176 1.160304387801034 0.5] [320.2440110330798 0 0.5] [326.04553297208497 0 0.5] [328.3661417476868 0 0.5] [330.6867505232889 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "09a64470-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [807.0879496860267 1183.6939646706705]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972416583
+:isComplete true}}
+:block/updated-at 1690972420750} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 221
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 55.69461061444872 0.5] [4.641217551204022 58.01521939005079 0.5] [9.282435102408158 61.49613255345389 0.5] [12.763348265811146 68.45795888025987 0.5] [16.244261429214248 78.90069837046894 0.5] [16.244261429214248 80.06100275826998 0.5] [20.88547898041827 78.90069837046894 0.5] [53.37400183884665 55.69461061444872 0.5] [111.38922122889733 20.885478980418384 0.5] [133.43500459711652 11.603043878010112 0.5] [142.71743969952468 11.603043878010112 0.5] [146.19835286292766 15.083957041413214 0.5] [148.51896163852973 19.72517459261735 0.5] [149.67926602633077 22.04578336821919 0.5] [150.8395704141318 23.206087756020224 0.5] [161.28230990434088 20.885478980418384 0.5] [194.9311371505703 8.122130714607238 0.5] [242.5036170504119 0 0.5] [302.83944521606475 2.320608775602068 0.5] [384.06075236213553 27.84730530722436 0.5] [438.5950585887832 47.57247989984148 0.5] [468.76297267160965 58.01521939005079 0.5] [483.84692971302263 58.01521939005079 0.5] [496.6102779788338 55.69461061444872 0.5] [524.4575832860581 48.73278428764252 0.5] [559.2667149200887 40.610653573035506 0.5] [590.5949333907159 34.80913163403034 0.5] [609.1598035955323 31.328218470627462 0.5] [617.2819343101393 31.328218470627462 0.5] [620.7628474735424 30.167914082826428 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0ba21470-3120-11ee-a12e-11b67b800815"
+:noFill true
+:point [793.1642970324145 1216.1824875290988]
+:parentId "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:nonce 1690972419926
+:isComplete true}}
+:block/updated-at 1690972420753})
+:pages (
+{:block/uuid #uuid "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64c243ac-774d-49eb-9769-c7b3ffe58f81"
+:name "k6 simulating flows"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("8991bca0-2c66-11ee-9d15-ef5d46458b5d" "89e90460-2c66-11ee-9d15-ef5d46458b5d" "8a1125d0-2c66-11ee-9d15-ef5d46458b5d" "8a3acde0-2c66-11ee-9d15-ef5d46458b5d" "8ac7cba0-2c66-11ee-9d15-ef5d46458b5d" "8b154f60-2c66-11ee-9d15-ef5d46458b5d" "8b350c60-2c66-11ee-9d15-ef5d46458b5d" "8b5b8020-2c66-11ee-9d15-ef5d46458b5d" "8bb70da0-2c66-11ee-9d15-ef5d46458b5d" "8bef34a0-2c66-11ee-9d15-ef5d46458b5d" "8c150c20-2c66-11ee-9d15-ef5d46458b5d" "8c548620-2c66-11ee-9d15-ef5d46458b5d" "8c768d10-2c66-11ee-9d15-ef5d46458b5d" "8cbcbdd0-2c66-11ee-9d15-ef5d46458b5d" "8ce04b60-2c66-11ee-9d15-ef5d46458b5d" "92a6df00-2c66-11ee-9d15-ef5d46458b5d" "92d457a0-2c66-11ee-9d15-ef5d46458b5d" "92f3ed90-2c66-11ee-9d15-ef5d46458b5d" "931b24a0-2c66-11ee-9d15-ef5d46458b5d" "93420d90-2c66-11ee-9d15-ef5d46458b5d" "93774e60-2c66-11ee-9d15-ef5d46458b5d" "93bff020-2c66-11ee-9d15-ef5d46458b5d" "ab64cb60-2c66-11ee-9d15-ef5d46458b5d" "afebda20-2c66-11ee-9d15-ef5d46458b5d" "b046f270-2c66-11ee-9d15-ef5d46458b5d" "b06e9eb0-2c66-11ee-9d15-ef5d46458b5d" "b0b56bb0-2c66-11ee-9d15-ef5d46458b5d" "b0dcf0e0-2c66-11ee-9d15-ef5d46458b5d" "b0fcade0-2c66-11ee-9d15-ef5d46458b5d" "b17e39f0-2c66-11ee-9d15-ef5d46458b5d" "b1a040e0-2c66-11ee-9d15-ef5d46458b5d" "b1f2a6a0-2c66-11ee-9d15-ef5d46458b5d" "b2344380-2c66-11ee-9d15-ef5d46458b5d" "b295c470-2c66-11ee-9d15-ef5d46458b5d" "b2b421e0-2c66-11ee-9d15-ef5d46458b5d" "b2d58c90-2c66-11ee-9d15-ef5d46458b5d" "b2f60ce0-2c66-11ee-9d15-ef5d46458b5d" "b31ad2f0-2c66-11ee-9d15-ef5d46458b5d" "b3453e50-2c66-11ee-9d15-ef5d46458b5d" "b4650630-2c66-11ee-9d15-ef5d46458b5d" "b4c06ca0-2c66-11ee-9d15-ef5d46458b5d" "b4f6bee0-2c66-11ee-9d15-ef5d46458b5d" "b533c7e0-2c66-11ee-9d15-ef5d46458b5d" "b59aee20-2c66-11ee-9d15-ef5d46458b5d" "b5fdcea0-2c66-11ee-9d15-ef5d46458b5d" "b6327330-2c66-11ee-9d15-ef5d46458b5d" "b67102d0-2c66-11ee-9d15-ef5d46458b5d" "b6a35d70-2c66-11ee-9d15-ef5d46458b5d" "e9fc81b0-2c66-11ee-9d15-ef5d46458b5d" "ea5a5920-2c66-11ee-9d15-ef5d46458b5d" "eaa12620-2c66-11ee-9d15-ef5d46458b5d" "eaca31f0-2c66-11ee-9d15-ef5d46458b5d" "eaef9440-2c66-11ee-9d15-ef5d46458b5d" "eb2b8bd0-2c66-11ee-9d15-ef5d46458b5d" "eba99570-2c66-11ee-9d15-ef5d46458b5d" "f9c57de0-2c66-11ee-9d15-ef5d46458b5d" "fa26fed0-2c66-11ee-9d15-ef5d46458b5d" "fa6edd40-2c66-11ee-9d15-ef5d46458b5d" "facded30-2c66-11ee-9d15-ef5d46458b5d" "faea9cf0-2c66-11ee-9d15-ef5d46458b5d" "fb088530-2c66-11ee-9d15-ef5d46458b5d" "fc753490-2c66-11ee-9d15-ef5d46458b5d" "fc9a48c0-2c66-11ee-9d15-ef5d46458b5d" "fcdc0cb0-2c66-11ee-9d15-ef5d46458b5d" "fd274680-2c66-11ee-9d15-ef5d46458b5d" "fd7d7cd0-2c66-11ee-9d15-ef5d46458b5d" "fdd84700-2c66-11ee-9d15-ef5d46458b5d" "fe0daee0-2c66-11ee-9d15-ef5d46458b5d" "fe4adef0-2c66-11ee-9d15-ef5d46458b5d" "fe701a30-2c66-11ee-9d15-ef5d46458b5d" "fef41740-2c66-11ee-9d15-ef5d46458b5d" "ff1e0d70-2c66-11ee-9d15-ef5d46458b5d" "ff4348b0-2c66-11ee-9d15-ef5d46458b5d" "ff601f80-2c66-11ee-9d15-ef5d46458b5d" "ff87cbc0-2c66-11ee-9d15-ef5d46458b5d" "ffc17960-2c66-11ee-9d15-ef5d46458b5d" "000a6940-2c67-11ee-9d15-ef5d46458b5d" "0035bf00-2c67-11ee-9d15-ef5d46458b5d" "032c90d0-2c67-11ee-9d15-ef5d46458b5d" "035e7640-2c67-11ee-9d15-ef5d46458b5d" "03853820-2c67-11ee-9d15-ef5d46458b5d" "03b6cf70-2c67-11ee-9d15-ef5d46458b5d" "03f4e9e0-2c67-11ee-9d15-ef5d46458b5d" "041ce440-2c67-11ee-9d15-ef5d46458b5d" "04529a40-2c67-11ee-9d15-ef5d46458b5d" "0d467900-2c67-11ee-9d15-ef5d46458b5d" "0da75db0-2c67-11ee-9d15-ef5d46458b5d" "0de3f180-2c67-11ee-9d15-ef5d46458b5d" "0e225a10-2c67-11ee-9d15-ef5d46458b5d" "0e646c20-2c67-11ee-9d15-ef5d46458b5d" "0e9e19c0-2c67-11ee-9d15-ef5d46458b5d" "0eca0bc0-2c67-11ee-9d15-ef5d46458b5d" "0ee9a1b0-2c67-11ee-9d15-ef5d46458b5d" "0f0d0830-2c67-11ee-9d15-ef5d46458b5d" "0f313200-2c67-11ee-9d15-ef5d46458b5d" "0f625420-2c67-11ee-9d15-ef5d46458b5d" "0f959920-2c67-11ee-9d15-ef5d46458b5d" "0fca64c0-2c67-11ee-9d15-ef5d46458b5d" "1045af40-2c67-11ee-9d15-ef5d46458b5d" "108aa780-2c67-11ee-9d15-ef5d46458b5d" "10a61ec0-2c67-11ee-9d15-ef5d46458b5d" "10beafd0-2c67-11ee-9d15-ef5d46458b5d" "10f9bd00-2c67-11ee-9d15-ef5d46458b5d" "111e5c00-2c67-11ee-9d15-ef5d46458b5d" "47275e00-2c67-11ee-9d15-ef5d46458b5d" "477eccd0-2c67-11ee-9d15-ef5d46458b5d" "47af79c0-2c67-11ee-9d15-ef5d46458b5d" "47d1ced0-2c67-11ee-9d15-ef5d46458b5d" "4a632810-2c67-11ee-9d15-ef5d46458b5d" "4f8b58d0-2c67-11ee-9d15-ef5d46458b5d" "4fe75b80-2c67-11ee-9d15-ef5d46458b5d" "50333190-2c67-11ee-9d15-ef5d46458b5d" "508d8690-2c67-11ee-9d15-ef5d46458b5d" "50c33c90-2c67-11ee-9d15-ef5d46458b5d" "54fe7540-2c67-11ee-9d15-ef5d46458b5d" "55262180-2c67-11ee-9d15-ef5d46458b5d" "558e8040-2c67-11ee-9d15-ef5d46458b5d" "55c93f50-2c67-11ee-9d15-ef5d46458b5d" "560d9b50-2c67-11ee-9d15-ef5d46458b5d" "566160a0-2c67-11ee-9d15-ef5d46458b5d" "5696ef90-2c67-11ee-9d15-ef5d46458b5d" "56f1e0d0-2c67-11ee-9d15-ef5d46458b5d" "57241460-2c67-11ee-9d15-ef5d46458b5d" "574f1c00-2c67-11ee-9d15-ef5d46458b5d" "576d2b50-2c67-11ee-9d15-ef5d46458b5d" "578ce850-2c67-11ee-9d15-ef5d46458b5d" "57cd73c0-2c67-11ee-9d15-ef5d46458b5d" "5801ca30-2c67-11ee-9d15-ef5d46458b5d" "641ba110-2c67-11ee-9d15-ef5d46458b5d" "648d0080-2c67-11ee-9d15-ef5d46458b5d" "64be70c0-2c67-11ee-9d15-ef5d46458b5d" "64df6640-2c67-11ee-9d15-ef5d46458b5d" "65379860-2c67-11ee-9d15-ef5d46458b5d" "65597840-2c67-11ee-9d15-ef5d46458b5d" "65b0c000-2c67-11ee-9d15-ef5d46458b5d" "65e898e0-2c67-11ee-9d15-ef5d46458b5d" "66274f90-2c67-11ee-9d15-ef5d46458b5d" "668ca110-2c67-11ee-9d15-ef5d46458b5d" "66c60090-2c67-11ee-9d15-ef5d46458b5d" "66f91e80-2c67-11ee-9d15-ef5d46458b5d" "67255ea0-2c67-11ee-9d15-ef5d46458b5d" "674b0f10-2c67-11ee-9d15-ef5d46458b5d" "6767bed0-2c67-11ee-9d15-ef5d46458b5d" "67861c40-2c67-11ee-9d15-ef5d46458b5d" "67c79210-2c67-11ee-9d15-ef5d46458b5d" "67fa3ad0-2c67-11ee-9d15-ef5d46458b5d" "68814520-2c67-11ee-9d15-ef5d46458b5d" "689fc9a0-2c67-11ee-9d15-ef5d46458b5d" "68cccd10-2c67-11ee-9d15-ef5d46458b5d" "69076510-2c67-11ee-9d15-ef5d46458b5d" "69296c00-2c67-11ee-9d15-ef5d46458b5d" "69481790-2c67-11ee-9d15-ef5d46458b5d" "698324c0-2c67-11ee-9d15-ef5d46458b5d" "699f5f50-2c67-11ee-9d15-ef5d46458b5d" "69bad690-2c67-11ee-9d15-ef5d46458b5d" "69db08c0-2c67-11ee-9d15-ef5d46458b5d" "6b2b7d90-2c67-11ee-9d15-ef5d46458b5d" "6b74bb90-2c67-11ee-9d15-ef5d46458b5d" "6bbd5d50-2c67-11ee-9d15-ef5d46458b5d" "6bef69d0-2c67-11ee-9d15-ef5d46458b5d" "6c2e2080-2c67-11ee-9d15-ef5d46458b5d" "6c6ab450-2c67-11ee-9d15-ef5d46458b5d" "6c9e9590-2c67-11ee-9d15-ef5d46458b5d" "6d1c9f30-2c67-11ee-9d15-ef5d46458b5d" "6d6e8fc0-2c67-11ee-9d15-ef5d46458b5d" "6dc5fe90-2c67-11ee-9d15-ef5d46458b5d" "6e02e080-2c67-11ee-9d15-ef5d46458b5d" "6e249950-2c67-11ee-9d15-ef5d46458b5d" "6e414910-2c67-11ee-9d15-ef5d46458b5d" "a84f7fa0-2c67-11ee-9d15-ef5d46458b5d" "a8ca7c00-2c67-11ee-9d15-ef5d46458b5d" "a9084850-2c67-11ee-9d15-ef5d46458b5d" "a9426b20-2c67-11ee-9d15-ef5d46458b5d" "a9764c60-2c67-11ee-9d15-ef5d46458b5d" "a99c9910-2c67-11ee-9d15-ef5d46458b5d" "aa4cd640-2c67-11ee-9d15-ef5d46458b5d" "aa88f4e0-2c67-11ee-9d15-ef5d46458b5d" "aab3fc80-2c67-11ee-9d15-ef5d46458b5d" "aaf942e0-2c67-11ee-9d15-ef5d46458b5d" "ab1b70e0-2c67-11ee-9d15-ef5d46458b5d" "ab38bce0-2c67-11ee-9d15-ef5d46458b5d" "ab54d060-2c67-11ee-9d15-ef5d46458b5d" "ab857d50-2c67-11ee-9d15-ef5d46458b5d" "abbbf6a0-2c67-11ee-9d15-ef5d46458b5d" "b1faee90-2c67-11ee-9d15-ef5d46458b5d" "b2238530-2c67-11ee-9d15-ef5d46458b5d" "b2796d60-2c67-11ee-9d15-ef5d46458b5d" "b2bf9e20-2c67-11ee-9d15-ef5d46458b5d" "b309ed90-2c67-11ee-9d15-ef5d46458b5d" "b358d0e0-2c67-11ee-9d15-ef5d46458b5d" "b38251e0-2c67-11ee-9d15-ef5d46458b5d" "b3c54e50-2c67-11ee-9d15-ef5d46458b5d" "b3e33690-2c67-11ee-9d15-ef5d46458b5d" "b42596c0-2c67-11ee-9d15-ef5d46458b5d" "b44505a0-2c67-11ee-9d15-ef5d46458b5d" "b475d9a0-2c67-11ee-9d15-ef5d46458b5d" "b4ab1a70-2c67-11ee-9d15-ef5d46458b5d" "b4e16cb0-2c67-11ee-9d15-ef5d46458b5d" "b5054860-2c67-11ee-9d15-ef5d46458b5d" "b53001e0-2c67-11ee-9d15-ef5d46458b5d" "b55e64e0-2c67-11ee-9d15-ef5d46458b5d" "b59182d0-2c67-11ee-9d15-ef5d46458b5d" "b5bd74d0-2c67-11ee-9d15-ef5d46458b5d" "c0353470-2c67-11ee-9d15-ef5d46458b5d" "c09d6c20-2c67-11ee-9d15-ef5d46458b5d" "c0d14d60-2c67-11ee-9d15-ef5d46458b5d" "c119ef20-2c67-11ee-9d15-ef5d46458b5d" "c1465650-2c67-11ee-9d15-ef5d46458b5d" "c17a3790-2c67-11ee-9d15-ef5d46458b5d" "c1964b10-2c67-11ee-9d15-ef5d46458b5d" "c0ee7250-2c67-11ee-9d15-ef5d46458b5d" "c1d046d0-2c67-11ee-9d15-ef5d46458b5d" "ff66abd0-311f-11ee-a12e-11b67b800815" "01db2e40-3120-11ee-a12e-11b67b800815" "02904d70-3120-11ee-a12e-11b67b800815" "047a4320-3120-11ee-a12e-11b67b800815" "0624bed0-3120-11ee-a12e-11b67b800815" "07b7bae0-3120-11ee-a12e-11b67b800815" "085de5f0-3120-11ee-a12e-11b67b800815" "090f82b0-3120-11ee-a12e-11b67b800815" "09a64470-3120-11ee-a12e-11b67b800815" "0ba21470-3120-11ee-a12e-11b67b800815")}}
+:block/updated-at 1690972420750
+:block/created-at 1690452908832
+:block/type "whiteboard"
+:block/name "k6 simulating flows"
+:block/original-name "k6 simulating flows"})}

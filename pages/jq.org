@@ -1,0 +1,15 @@
+* What is object identifier index in jq? #card
+** jq '.key.subKey.anotherSubKey'
+* Array processing in jq #card
+** Get the first index
+jq '.keys[0]'
+** Get index range
+jq '.keys[1:]'
+jq '.keys[:1]'
+** Get all the elements
+jq '.keys[]'
+* Array Constructors
+** Wrap the query with [] to output a valid JSON array
+* Object Constructors
+** Transform the result by wrapping object around the query
+*

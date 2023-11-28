@@ -1,0 +1,10 @@
+* What is [[Logistics]]? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2023-06-30T05:47:52.261Z
+:card-last-reviewed: 2023-06-26T05:47:52.262Z
+:card-last-score: 3
+:END:
+** [[Logistics]] is defined as the movement and storage of goods, services, and related information.

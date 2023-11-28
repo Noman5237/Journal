@@ -1,0 +1,4 @@
+* A calculus is a method of calculation or reasoning
+* Referential Transparency #card
+** Same function given the same values to evaluate, will always return the same result in pure functional programming, as they do in math
+*

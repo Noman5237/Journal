@@ -1,0 +1,24 @@
+* What does Kubelet do? #card
+** Kubelet interacts with both node and container
+** Kubelet starts the pod with a container inside
+* What is Kubeproxy? #card
+** Intelligent forwarding logic inside to redirect traffic efficiently
+* Which node processes must be installed on every worker node? #card
+** Kubelet
+** Kubeproxy
+** Container Runtime
+* Which node processes must be running on each master node? #card
+** API Server #card
+*** Cluster gateway with authentication
+*** If we want to update or query the cluster, we must do it using the API server
+It uses [[etcd]] for knowing these information
+*** Validate the request and forwards it to other processes
+** Scheduler #card
+*** Scheduler has an intelligent way of deciding on which node the pod will be deployed
+*** It knows which node has been used on what capacity from [[etcd]]
+** Controller Manager #card
+*** Detect state changes like crashing of pods and makes a request to the scheduler to retain the desired changes
+*** It knows the state changes from [[etcd]]
+** etcd #card
+*** Key value pair cluster state database
+*** Cluster brain

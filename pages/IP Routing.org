@@ -1,0 +1,15 @@
+* Routing rules example table
+Kernel IP routing table
+|--------------+----------+---------------+-------+--------+-----+-----------+---------|
+|  Destination |  Gateway |       Genmask | Flags | Metric | Ref | Use Iface |         |
+|      default | _gateway |       0.0.0.0 | UG    |    100 |   0 |         0 | enp1s0  |
+| 172.16.224.0 |  0.0.0.0 | 255.255.252.0 | U     |    100 |   0 |         0 | enp1s0  |
+|   172.17.0.0 |  0.0.0.0 |   255.255.0.0 | U     |      0 |   0 |         0 | docker0 |
+|--------------+----------+---------------+-------+--------+-----+-----------+---------|
+* What does U flag means in routing table?#card
+** Up and running, ready for use
+* What does G flag means in routing table?#card
+** Gateway route
+* Every routing table has a default rule, when no other rule matches, it will execute the default rule
+* If the gateway is starred out then the destination is on the same network
+*

@@ -1,0 +1,8 @@
+* What are the main parts of a k8s YAML configuration file? #card
+** metadata, spec and status
+** kind is also important
+* apiversions different for each kind of configuration
+* status is going to be automatically generated and added by kubernetes
+* How pods gets connected to deployments and services?#card
+** Using labels and selectors
+*

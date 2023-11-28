@@ -1,0 +1,11 @@
+* Kubernetes the Hard Way
+** DONE Certificate Authority
+:LOGBOOK:
+CLOCK: [2023-07-26 Wed 17:25:31]
+CLOCK: [2023-07-26 Wed 17:25:39]--[2023-07-30 Sun 17:59:34] =>  96:33:55
+:END:
+** DONE Kubernetes Configuration Files
+:LOGBOOK:
+CLOCK: [2023-08-01 Tue 13:11:23]--[2023-08-01 Tue 13:11:23] =>  00:00:00
+:END:
+** DONE Data Encryption Keys

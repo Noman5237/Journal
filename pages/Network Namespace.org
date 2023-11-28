@@ -1,0 +1,4 @@
+* What is network namespace in linux? #card
+** In Linux, each running process communicates within a [[http://man7.org/linux/man-pages/man8/ip-netns.8.html][network namespace]] that provides a logical networking stack with its own routes, firewall rules, and network devices. In essence, a network namespace provides a brand new network stack for all the processes within the namespace.
+* By default, Linux assigns every process to the root network namespace to provide access to the external world
+*

@@ -1,0 +1,43 @@
+* Mr. Henricks has owned an e-commerce business for three years. Currently, he's facing challenges with the system and has decided to completely redesign the web application using modern technologies. Analyzing data from the past three years, he's noticed a recurring trend where the system experiences increased traffic during the start of each month, especially in the first five days. Additionally, he has identified consistent usage patterns throughout the rest of the month, resulting in increased user load on his web application. His plan is to design the entire system architecture with a modular, Agile development and deployment approach. This means developing and deploying individual components incrementally in sprints, allowing for flexibility and adaptation as needed.
+
+As a DevOps Engine, you're supposed to help Mr. Henricks. Please answer these questions based on your role:
+* Mr. Henricks intends to manage three separate environments: development, testing, and production. What Git branching strategy would you recommend for these environments?
+** Looks like the Git Flow branching strategy would be a perfect fit for Mr. Henricks' agile development and deployment approach. In this strategy, the repo holds two main branches with an infinite lifetime:
+:PROPERTIES:
+:id: 6538ff9a-ed04-4a20-9fa0-911fd2990698
+:END:
+	1. Main Branch (Production):  
+            Branch Name: main  
+            Represents the stable and production-ready code.
+	2. Develop Branch (Testing):  
+            Branch Name: develop
+            We consider develop to be the main branch where the source code of HEAD always 
+            reflects a state with the latest delivered development changes for the next release. 
+            Some would call this the “integration branch”. This is where any automatic nightly 
+            builds are built from.  
+        When the source code in the develop branch reaches a stable point and is ready to be 
+        released, all of the changes should be merged back into master somehow and then 
+        tagged with a release number.
+        Next to the main branches master and develop, our development model uses a variety 
+        of supporting branches to aid parallel development between team members, ease 
+        tracking of features, prepare for production releases and to assist in quickly fixing live 
+        production problems. Unlike the main branches, these branches always have a limited 
+        life time, since they will be removed eventually.
+
+        The different types of branches we may use are:
+
+        3. Feature Branches (Development):
+            Branch Name: feature/{feature-name}
+            For each new feature or task, create a dedicated feature branch based on develop.
+        4. Release Branches (Staging):
+            Branch Name: release/{version}
+            Created from develop when preparing for a new release.
+            Must be merged into develop and master after completion
+        5. Hotfix Branches (Production):
+            Branch Name: hotfix/{issue-description}
+            Created from main when critical issues arise in the production environment.
+
+This type of workflow is ideal because,
+       1. The workflow is great for a release-based software workflow.
+       2. Gitflow offers a dedicated channel for hotfixes to production.
+**

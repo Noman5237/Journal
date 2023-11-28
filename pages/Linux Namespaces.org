@@ -1,0 +1,18 @@
+* https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html
+* What is a liinux namespace? #card
+** A namespace wraps some global resource to provide resource isolation
+* There are many different types of namespaces in linux and multiple instances of NS may exist on a system.
+On system boot, there is only one namespace of a type and its called initial namespace of that type.
+* Processes can see or modify global resources and the visibility is within that namespace only.
+* When a new process is created via fork, they are created within the same namespace
+* What are the different Types of namespaces? #card
+** Mount
+** UTC
+** IPC
+** PID
+** Network
+** User
+** Cgroup
+* What is the difference between hypervisors vs containers? #card
+** Processes are isolated by running in separate guest kernels, it is "all or nothing"
+** Virtualization via namespaces permits isolation of processes on a single kernel and isolation can be per-global-resource

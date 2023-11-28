@@ -1,0 +1,19 @@
+* Basics
+** How  to update cluster changes in kubernetes #card
+*** To update the state of a Kubernetes cluster, you make API calls to the API server describing your desired state.
+** Who is responsible for making things happen in kubernetes? #card
+*** Controllers operate using a simple loop that continuously checks the current state of the cluster against the desired state of the cluster. If there are any differences, controllers perform tasks to make the current state match the desired state
+** What is a pod? #card
+*** A single Pod represents a running workload in your cluster and encapsulates one or more Docker containers, any required storage, and a unique IP address.
+** What is a node in kubernetes cluster? #card
+*** Nodes are the machines running the Kubernetes cluster. These can be bare metal, virtual machines, or anything else
+** What is a kubeconfig file? #card
+*** [[https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/][Kubernetes configuration files]], also known as kubeconfigs, which enable Kubernetes clients to locate and authenticate to the Kubernetes API Servers.
+*** The kubectl command-line tool uses kubeconfig files to find the information it needs to choose a cluster and communicate with the API server of a cluster
+** What is usage of context in kubeconfig file? #card
+*** After your clusters, users, and contexts are defined in one or more configuration files, you can quickly switch between clusters by using the kubectl config use-context command
+* [[The Kubernetes Networking Model]]
+* [[Kubernetes Architecture]]
+* [[kubectl]]
+* [[k8s configs]]
+*

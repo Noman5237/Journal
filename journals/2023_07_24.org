@@ -1,0 +1,33 @@
+* [[City Remittance]]
+** Start load testing report analysis and find issues
+*** Normal Allocation
+**** DONE Generating Login Home Screen reports under normal allocation
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 12:38:51]--[2023-07-24 Mon 13:03:55] =>  00:25:04
+:END:
+**** DONE Generating Guest Home screen reports
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 13:05:54]--[2023-07-24 Mon 13:29:19] =>  00:23:25
+:END:
+**** DONE Generating Send Money reports
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 13:29:40]--[2023-07-24 Mon 15:44:11] =>  02:14:31
+:END:
+** DONE Fix the add customer to group like system user branch options
+:PROPERTIES:
+:END:
+*** No work needed
+** Try to Configure tempo with trace id labels
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 13:06:05]
+CLOCK: [2023-07-24 Mon 15:49:35]--[2023-07-25 Tue 19:37:24] =>  27:47:49
+:END:
+*** DONE Need to configure a promtail pipeline for log message processing
+* DONE Activate City Touch Card
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 16:38:51]--[2023-07-24 Mon 16:38:52] =>  00:00:01
+:END:
+** DONE Test the card in any atm
+:LOGBOOK:
+CLOCK: [2023-07-25 Tue 19:35:04]--[2023-07-25 Tue 19:35:05] =>  00:00:01
+:END:

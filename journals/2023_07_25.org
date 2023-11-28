@@ -1,0 +1,41 @@
+* [[The Kubernetes Networking Model]]
+** DONE Container to Container Networking
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 12:38:47]
+CLOCK: [2023-07-25 Tue 20:55:44]--[2023-07-25 Tue 20:55:45] =>  00:00:01
+:END:
+** Pod to Pod Networking
+*** DONE Same Node
+*** TODO Different Nodes
+* [[City Remittance]]
+** DONE Finishing up dashboard back-end and integration frontend
+:LOGBOOK:
+CLOCK: [2023-07-23 Sun 14:33:10]--[2023-07-23 Sun 15:36:01] =>  01:02:51
+CLOCK: [2023-07-23 Sun 15:36:01]--[2023-07-24 Mon 11:26:48] =>  19:50:47
+CLOCK: [2023-07-24 Mon 15:49:39]--[2023-07-25 Tue 19:33:58] =>  27:44:19
+CLOCK: [2023-07-25 Tue 19:33:59]--[2023-07-25 Tue 19:34:00] =>  00:00:01
+:END:
+** DONE Fix the add customer to group like system user branch options
+:PROPERTIES:
+:collapsed: true
+:END:
+*** No work needed
+** Try to Configure tempo with trace id labels
+:PROPERTIES:
+:collapsed: true
+:END:
+:LOGBOOK:
+CLOCK: [2023-07-24 Mon 13:06:05]
+CLOCK: [2023-07-24 Mon 15:49:35]--[2023-07-25 Tue 19:37:42] =>  27:48:07
+:END:
+*** DONE Fix traceId generation
+:PROPERTIES:
+:END:
+:LOGBOOK:
+CLOCK: [2023-07-26 Wed 14:33:56]--[2023-07-26 Wed 14:34:16] =>  00:00:20
+:END:
+**** used randombyte and hashing library from k6
+** DONE Fix date of birth offset by 1 for agent onboarding
+:LOGBOOK:
+CLOCK: [2023-07-25 Tue 00:20:26]--[2023-07-25 Tue 19:34:08] =>  19:13:42
+:END:

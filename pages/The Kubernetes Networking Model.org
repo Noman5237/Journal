@@ -1,0 +1,19 @@
+* Opinionated choices of kubernetes pod networking #card
+** all Pods can communicate with all other Pods without using /network address translation/ (NAT).
+** all Nodes can communicate with all Pods without NAT.
+** the IP that a Pod sees itself as is the same IP that others see it as.
+* Container to Container Networking
+** [[Network Namespace]]
+** A Pod is modelled as a group of Docker containers that share a network namespace
+** Containers within a Pod all have the same IP address and port space assigned through the network namespace assigned to the Pod, and can find each other via localhost since they reside in the same namespace.
+https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/pod-namespace.png
+* Pod to Pod Networking
+** In Kubernetes, every Pod has a real IP address and each Pod communicates with other Pods using that IP address.
+** How pods connects with other pod in the *same machine* #card
+*** From the Pod’s perspective, it exists in its own Ethernet namespace that needs to communicate with other network namespaces on the same Node.
+*** Namespaces can be connected using a Linux [[http://man7.org/linux/man-pages/man4/veth.4.html][Virtual Ethernet Device]] or /veth pair/ consisting of two virtual interfaces that can be spread over multiple namespaces.
+*** To connect Pod namespaces, we can assign one side of the veth pair to the root network namespace, and the other side to the Pod’s network namespace.
+*** https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/pod-veth-pairs.png
+*** Now, we want the Pods to talk to each other through the root namespace, and for this we use a [[Network Bridge]].
+*** https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/pod-to-pod-same-node.gif
+** Why can't we use a network bridge to directly connect pod1 eth0 and pod2 eth0?

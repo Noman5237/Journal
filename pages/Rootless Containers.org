@@ -1,0 +1,12 @@
+* Running docker using rootless mode
+https://docs.docker.com/engine/security/rootless/
+Following features are not supported in docker rootless:
+** AppArmor
+	* Checkpoint
+	* Overlay network
+	* Exposing SCTP ports
+* Adding non-root user to container
+https://code.visualstudio.com/remote/advancedcontainers/add-nonroot-user
+* Running containerd in rootless mode
+https://github.com/containerd/containerd/blob/main/docs/rootless.md
+*
